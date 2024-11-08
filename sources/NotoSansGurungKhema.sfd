@@ -1,0 +1,4849 @@
+SplineFontDB: 3.2
+FontName: NotoSansGurungKhema
+FullName: Noto Sans Gurung Khema
+FamilyName: Noto Sans Gurung Khema
+Weight: Regular
+Copyright: 
+UComments: "2021-9-15: Created with FontForge (http://fontforge.org)+AAoACgAA-Auto-kerning: separation 210, min.kerning 30"
+Version: 1.000
+ItalicAngle: 0
+UnderlinePosition: -125
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A" 1
+Layer: 1 0 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A" 0
+XUID: [1021 59 1751208496 15025]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1631732133
+ModificationTime: 1731024437
+PfmFamily: 33
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 1069
+OS2TypoAOffset: 0
+OS2TypoDescent: -293
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1069
+OS2WinAOffset: 0
+OS2WinDescent: 389
+OS2WinDOffset: 0
+HheadAscent: 1069
+HheadAOffset: 0
+HheadDescent: -293
+HheadDOffset: 0
+OS2CapHeight: 714
+OS2XHeight: 536
+OS2Vendor: 'Merc'
+OS2CodePages: 00000007.00000000
+OS2UnicodeRanges: a82003c1.9205a186.01000008.00000000
+Lookup: 1 0 0 "Gukh virama repl" { "Gukh virama repl-1"  } []
+Lookup: 5 0 0 "Gukh virama compat" { "Gukh virama-1"  } [' RQD' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 256 0 "Gukh CCMP above" { "Gukh CCMP-1"  } ['ccmp' ('DFLT' <'dflt' > 'gukh' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 8 0 "Gukh LIGM" { "Gukh LIGM-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Gukh med.H normal" { "Gukh med.H normal-1"  } []
+Lookup: 1 0 0 "Gukh med.H b" { "Gukh med.H b-1"  } []
+Lookup: 1 0 0 "Gukh med.H invT" { "Gukh med.H invT-1"  } []
+Lookup: 1 0 0 "Gukh med.H wider" { "Gukh med.H wider-1"  } []
+Lookup: 1 0 0 "Gukh med.H aspir" { "Gukh med.H aspir-1"  } []
+Lookup: 5 8 0 "Gukh med.H ctx versions" { "Normal"  "b"  "InvT"  "Wider"  "Aspir"  } ['rclt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "Common ABVM" { "Indic matra 625-1"  } ['abvm' ('DFLT' <'dflt' > 'gukh' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "Common BLWM" { "Common BLWM-1"  } ['blwm' ('DFLT' <'dflt' > 'arab' <'dflt' > 'bali' <'dflt' > 'copt' <'dflt' > 'cpmn' <'dflt' > 'cyrl' <'dflt' > 'dev2' <'dflt' > 'gara' <'dflt' > 'goth' <'dflt' > 'grek' <'dflt' > 'gukh' <'dflt' > 'hang' <'dflt' > 'latn' <'dflt' > 'maka' <'dflt' > 'nagm' <'dflt' > 'onao' <'dflt' > 'tel2' <'dflt' > 'todr' <'dflt' > 'toto' <'dflt' > ) ]
+Lookup: 262 0 0 "Common MKMK" { "Common MKMK-1"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' > 'bali' <'dflt' > 'copt' <'dflt' > 'cpmn' <'dflt' > 'cyrl' <'dflt' > 'dev2' <'dflt' > 'gara' <'dflt' > 'goth' <'dflt' > 'grek' <'dflt' > 'gukh' <'dflt' > 'hang' <'dflt' > 'latn' <'dflt' > 'maka' <'dflt' > 'nagm' <'dflt' > 'onao' <'dflt' > 'tel2' <'dflt' > 'todr' <'dflt' > 'toto' <'dflt' > ) ]
+MarkAttachClasses: 2
+"Above" 140 Gukh.Uml.Aa Gukh.Uml.I Gukh.Uml.Ii Gukh.Uml.U Gukh.Uml.Uu Gukh.Uml.E Gukh.Uml.Ee Gukh.Uml.Ai Gukh.Uml.Au Gukh.Uml.O Gukh.Uml.Oo Gukh.Uml.Anu
+DEI: 91125
+ContextSub2: coverage "Gukh virama-1" 0 0 0 1
+ 3 0 0
+  Coverage: 51 Gukh.Med.Y Gukh.Med.V Gukh.Med.Y.Low Gukh.Med.V.Low
+  Coverage: 89 Gukh.Med.H Gukh.Med.H.Norm Gukh.Med.H.Wider Gukh.Med.H.Aspir Gukh.Med.H.InvT Gukh.Med.H.b
+  Coverage: 11 Gukh.Virama
+ 1
+  SeqLookup: 2 "Gukh virama repl"
+EndFPST
+ContextSub2: coverage "b" 0 0 0 1
+ 2 0 0
+  Coverage: 34 Gukh.P Gukh.Ligm.P.Y Gukh.Ligm.P.V
+  Coverage: 10 Gukh.Med.H
+ 1
+  SeqLookup: 1 "Gukh med.H b"
+EndFPST
+ContextSub2: coverage "InvT" 0 0 0 1
+ 2 0 0
+  Coverage: 34 Gukh.N Gukh.Ligm.N.Y Gukh.Ligm.N.V
+  Coverage: 10 Gukh.Med.H
+ 1
+  SeqLookup: 1 "Gukh med.H invT"
+EndFPST
+ContextSub2: coverage "Aspir" 0 0 0 1
+ 2 0 0
+  Coverage: 222 Gukh.Gh Gukh.Ch Gukh.Jh Gukh.Ddh Gukh.Dh Gukh.Ligm.Gh.Y Gukh.Ligm.Ch.Y Gukh.Ligm.Jh.Y Gukh.Ligm.Ddh.Y Gukh.Ligm.Bh.Y Gukh.Ligm.Dh.Y Gukh.Ligm.Gh.V Gukh.Ligm.Ch.V Gukh.Ligm.Jh.V Gukh.Ligm.Ddh.V Gukh.Ligm.Dh.V Gukh.Ligm.Bh.V
+  Coverage: 10 Gukh.Med.H
+ 1
+  SeqLookup: 1 "Gukh med.H aspir"
+EndFPST
+ContextSub2: coverage "Wider" 0 0 0 1
+ 2 0 0
+  Coverage: 439 Gukh.A Gukh.Kh Gukh.G Gukh.Ng Gukh.C Gukh.Tth Gukh.Dd Gukh.Th Gukh.D Gukh.Bh Gukh.L Gukh.S Gukh.Ligm.Kh.Y Gukh.Ligm.G.Y Gukh.Ligm.Ng.Y Gukh.Ligm.C.Y Gukh.Ligm.J.Y Gukh.Ligm.Tth.Y Gukh.Ligm.Dd.Y Gukh.Ligm.T.Y Gukh.Ligm.Th.Y Gukh.Ligm.D.Y Gukh.Ligm.Kh.V Gukh.Ligm.G.V Gukh.Ligm.Ng.V Gukh.Ligm.C.V Gukh.Ligm.J.V Gukh.Ligm.Tth.V Gukh.Ligm.Dd.V Gukh.Ligm.Th.V Gukh.Ligm.D.V Gukh.Ligm.Ph.V Gukh.Ligm.L.Y Gukh.Ligm.L.V Gukh.Ligm.S.Y Gukh.Ligm.S.V
+  Coverage: 10 Gukh.Med.H
+ 1
+  SeqLookup: 1 "Gukh med.H wider"
+EndFPST
+ContextSub2: coverage "Normal" 0 0 0 1
+ 2 0 0
+  Coverage: 347 Gukh.K Gukh.J Gukh.H Gukh.Tt Gukh.V Gukh.T Gukh.Ph Gukh.B Gukh.M Gukh.Y Gukh.R Gukh.Ligm.K.Y Gukh.Ligm.H.Y Gukh.Ligm.Tt.Y Gukh.Ligm.V.Y Gukh.Ligm.T.Y Gukh.Ligm.Ph.Y Gukh.Ligm.B.Y Gukh.Ligm.M.Y Gukh.Ligm.K.V Gukh.Ligm.H.V Gukh.Ligm.Tt.V Gukh.Ligm.V.V Gukh.Ligm.T.V Gukh.Ligm.B.V Gukh.Ligm.M.V Gukh.Ligm.Y.Y Gukh.Ligm.Y.V Gukh.Ligm.R.Y Gukh.Ligm.R.V
+  Coverage: 10 Gukh.Med.H
+ 1
+  SeqLookup: 1 "Gukh med.H normal"
+EndFPST
+ShortTable: maxp 16
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  2
+  1
+  2
+  22
+  0
+  256
+  0
+  0
+  0
+EndShort
+TtTable: prep
+PUSHW_1
+ 511
+SCANCTRL
+PUSHB_1
+ 1
+SCANTYPE
+SVTCA[y-axis]
+MPPEM
+PUSHB_1
+ 8
+LT
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+PUSHB_2
+ 70
+ 6
+CALL
+IF
+POP
+PUSHB_1
+ 16
+EIF
+MPPEM
+PUSHB_1
+ 20
+GT
+IF
+POP
+PUSHB_1
+ 128
+EIF
+SCVTCI
+PUSHB_1
+ 6
+CALL
+NOT
+IF
+EIF
+PUSHB_1
+ 20
+CALL
+EndTTInstrs
+TtTable: fpgm
+PUSHB_1
+ 0
+FDEF
+PUSHB_1
+ 0
+SZP0
+MPPEM
+PUSHB_1
+ 42
+LT
+IF
+PUSHB_1
+ 74
+SROUND
+EIF
+PUSHB_1
+ 0
+SWAP
+MIAP[rnd]
+RTG
+PUSHB_1
+ 6
+CALL
+IF
+RTDG
+EIF
+MPPEM
+PUSHB_1
+ 42
+LT
+IF
+RDTG
+EIF
+DUP
+MDRP[rp0,rnd,grey]
+PUSHB_1
+ 1
+SZP0
+MDAP[no-rnd]
+RTG
+ENDF
+PUSHB_1
+ 1
+FDEF
+DUP
+MDRP[rp0,min,white]
+PUSHB_1
+ 12
+CALL
+ENDF
+PUSHB_1
+ 2
+FDEF
+MPPEM
+GT
+IF
+RCVT
+SWAP
+EIF
+POP
+ENDF
+PUSHB_1
+ 3
+FDEF
+ROUND[Black]
+RTG
+DUP
+PUSHB_1
+ 64
+LT
+IF
+POP
+PUSHB_1
+ 64
+EIF
+ENDF
+PUSHB_1
+ 4
+FDEF
+PUSHB_1
+ 6
+CALL
+IF
+POP
+SWAP
+POP
+ROFF
+IF
+MDRP[rp0,min,rnd,black]
+ELSE
+MDRP[min,rnd,black]
+EIF
+ELSE
+MPPEM
+GT
+IF
+IF
+MIRP[rp0,min,rnd,black]
+ELSE
+MIRP[min,rnd,black]
+EIF
+ELSE
+SWAP
+POP
+PUSHB_1
+ 5
+CALL
+IF
+PUSHB_1
+ 70
+SROUND
+EIF
+IF
+MDRP[rp0,min,rnd,black]
+ELSE
+MDRP[min,rnd,black]
+EIF
+EIF
+EIF
+RTG
+ENDF
+PUSHB_1
+ 5
+FDEF
+GFV
+NOT
+AND
+ENDF
+PUSHB_1
+ 6
+FDEF
+PUSHB_2
+ 34
+ 1
+GETINFO
+LT
+IF
+PUSHB_1
+ 32
+GETINFO
+NOT
+NOT
+ELSE
+PUSHB_1
+ 0
+EIF
+ENDF
+PUSHB_1
+ 7
+FDEF
+PUSHB_2
+ 36
+ 1
+GETINFO
+LT
+IF
+PUSHB_1
+ 64
+GETINFO
+NOT
+NOT
+ELSE
+PUSHB_1
+ 0
+EIF
+ENDF
+PUSHB_1
+ 8
+FDEF
+SRP2
+SRP1
+DUP
+IP
+MDAP[rnd]
+ENDF
+PUSHB_1
+ 9
+FDEF
+DUP
+RDTG
+PUSHB_1
+ 6
+CALL
+IF
+MDRP[rnd,grey]
+ELSE
+MDRP[min,rnd,black]
+EIF
+DUP
+PUSHB_1
+ 3
+CINDEX
+MD[grid]
+SWAP
+DUP
+PUSHB_1
+ 4
+MINDEX
+MD[orig]
+PUSHB_1
+ 0
+LT
+IF
+ROLL
+NEG
+ROLL
+SUB
+DUP
+PUSHB_1
+ 0
+LT
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+ROLL
+ROLL
+SUB
+DUP
+PUSHB_1
+ 0
+GT
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+EIF
+RTG
+ENDF
+PUSHB_1
+ 10
+FDEF
+PUSHB_1
+ 6
+CALL
+IF
+POP
+SRP0
+ELSE
+SRP0
+POP
+EIF
+ENDF
+PUSHB_1
+ 11
+FDEF
+DUP
+MDRP[rp0,white]
+PUSHB_1
+ 12
+CALL
+ENDF
+PUSHB_1
+ 12
+FDEF
+DUP
+MDAP[rnd]
+PUSHB_1
+ 7
+CALL
+NOT
+IF
+DUP
+DUP
+GC[orig]
+SWAP
+GC[cur]
+SUB
+ROUND[White]
+DUP
+IF
+DUP
+ABS
+DIV
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+EIF
+ENDF
+PUSHB_1
+ 13
+FDEF
+SRP2
+SRP1
+DUP
+DUP
+IP
+MDAP[rnd]
+DUP
+ROLL
+DUP
+GC[orig]
+ROLL
+GC[cur]
+SUB
+SWAP
+ROLL
+DUP
+ROLL
+SWAP
+MD[orig]
+PUSHB_1
+ 0
+LT
+IF
+SWAP
+PUSHB_1
+ 0
+GT
+IF
+PUSHB_1
+ 64
+SHPIX
+ELSE
+POP
+EIF
+ELSE
+SWAP
+PUSHB_1
+ 0
+LT
+IF
+PUSHB_1
+ 64
+NEG
+SHPIX
+ELSE
+POP
+EIF
+EIF
+ENDF
+PUSHB_1
+ 14
+FDEF
+PUSHB_1
+ 6
+CALL
+IF
+RTDG
+MDRP[rp0,rnd,white]
+RTG
+POP
+POP
+ELSE
+DUP
+MDRP[rp0,rnd,white]
+ROLL
+MPPEM
+GT
+IF
+DUP
+ROLL
+SWAP
+MD[grid]
+DUP
+PUSHB_1
+ 0
+NEQ
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+POP
+EIF
+EIF
+ENDF
+PUSHB_1
+ 15
+FDEF
+SWAP
+DUP
+MDRP[rp0,rnd,white]
+DUP
+MDAP[rnd]
+PUSHB_1
+ 7
+CALL
+NOT
+IF
+SWAP
+DUP
+IF
+MPPEM
+GTEQ
+ELSE
+POP
+PUSHB_1
+ 1
+EIF
+IF
+ROLL
+PUSHB_1
+ 4
+MINDEX
+MD[grid]
+SWAP
+ROLL
+SWAP
+DUP
+ROLL
+MD[grid]
+ROLL
+SWAP
+SUB
+SHPIX
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ELSE
+POP
+POP
+POP
+POP
+POP
+EIF
+ENDF
+PUSHB_1
+ 16
+FDEF
+DUP
+MDRP[rp0,min,white]
+PUSHB_1
+ 18
+CALL
+ENDF
+PUSHB_1
+ 17
+FDEF
+DUP
+MDRP[rp0,white]
+PUSHB_1
+ 18
+CALL
+ENDF
+PUSHB_1
+ 18
+FDEF
+DUP
+MDAP[rnd]
+PUSHB_1
+ 7
+CALL
+NOT
+IF
+DUP
+DUP
+GC[orig]
+SWAP
+GC[cur]
+SUB
+ROUND[White]
+ROLL
+DUP
+GC[orig]
+SWAP
+GC[cur]
+SWAP
+SUB
+ROUND[White]
+ADD
+DUP
+IF
+DUP
+ABS
+DIV
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+POP
+EIF
+ENDF
+PUSHB_1
+ 19
+FDEF
+DUP
+ROLL
+DUP
+ROLL
+SDPVTL[orthog]
+DUP
+PUSHB_1
+ 3
+CINDEX
+MD[orig]
+ABS
+SWAP
+ROLL
+SPVTL[orthog]
+PUSHB_1
+ 32
+LT
+IF
+ALIGNRP
+ELSE
+MDRP[grey]
+EIF
+ENDF
+PUSHB_1
+ 20
+FDEF
+PUSHB_4
+ 0
+ 64
+ 1
+ 64
+WS
+WS
+SVTCA[x-axis]
+MPPEM
+PUSHW_1
+ 4096
+MUL
+SVTCA[y-axis]
+MPPEM
+PUSHW_1
+ 4096
+MUL
+DUP
+ROLL
+DUP
+ROLL
+NEQ
+IF
+DUP
+ROLL
+DUP
+ROLL
+GT
+IF
+SWAP
+DIV
+DUP
+PUSHB_1
+ 0
+SWAP
+WS
+ELSE
+DIV
+DUP
+PUSHB_1
+ 1
+SWAP
+WS
+EIF
+DUP
+PUSHB_1
+ 64
+GT
+IF
+PUSHB_3
+ 0
+ 32
+ 0
+RS
+MUL
+WS
+PUSHB_3
+ 1
+ 32
+ 1
+RS
+MUL
+WS
+PUSHB_1
+ 32
+MUL
+PUSHB_1
+ 25
+NEG
+JMPR
+POP
+EIF
+ELSE
+POP
+POP
+EIF
+ENDF
+PUSHB_1
+ 21
+FDEF
+PUSHB_1
+ 1
+RS
+MUL
+SWAP
+PUSHB_1
+ 0
+RS
+MUL
+SWAP
+ENDF
+EndTTInstrs
+ShortTable: cvt  33
+  -10
+  0
+  714
+  58
+  56
+  51
+  81
+  74
+  30
+  70
+  109
+  96
+  79
+  114
+  94
+  36
+  34
+  28
+  63
+  65
+  68
+  53
+  72
+  43
+  41
+  61
+  86
+  77
+  107
+  83
+  88
+  100
+  49
+EndShort
+LangName: 1033
+GaspTable: 1 65535 15 1
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 33 14
+BeginPrivate: 0
+EndPrivate
+Grid
+-972 536.400390625 m 4
+ 2028 536.400390625 l 1028
+-1000 700 m 0
+ 2000 700 l 1024
+EndSplineSet
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "Horn"""  "Virama" "Common BLWM-1" "Matra 625" "Indic matra 625-1" "Maka uml right dot"""  "Umlaut RtL"""  "Dot below mark" "Common MKMK-1" "Dot below" "Common BLWM-1" "Nagm TR dot"""  "Arab Low""" 
+BeginChars: 1114205 153
+
+StartChar: Shape.Dotc
+Encoding: 9676 9676 0
+Width: 594
+Flags: W
+HStem: 42 52<271.418 322.539> 60 52<187.418 238.539 355.418 406.539> 107 52<113.418 164.539 429.418 480.539> 181 52<66.4176 117.539 476.418 527.539> 265 52<48.4176 99.5391 494.418 545.539> 349 52<66.4176 117.539 476.418 527.539> 423 52<113.418 164.539 429.418 480.539> 470 52<187.418 238.539 355.418 406.539> 488 52<271.418 322.539>
+VStem: 48 52<265.418 316.539> 66 52<181.418 232.539 349.418 400.539> 113 52<107.418 158.539 423.418 474.539> 187 52<60.4176 111.539 470.418 521.539> 271 52<42.4176 93.5391 488.418 539.539> 355 52<60.4176 111.539 470.418 521.539> 429 52<107.418 158.539 423.418 474.539> 476 52<181.418 232.539 349.418 400.539> 494 52<265.418 316.539>
+AnchorPoint: "Horn" 381 522 basechar 0
+AnchorPoint: "Matra 625" 297 625 basechar 0
+AnchorPoint: "Umlaut RtL" 297 560 basechar 0
+AnchorPoint: "Dot below" 298 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+323 514 m 0x1c8e
+ 323 502 313 488 297 488 c 0
+ 283 488 271 500 271 514 c 0
+ 271 530 285 540 297 540 c 0
+ 312 540 323 529 323 514 c 0x1c8e
+239 496 m 0
+ 239 484 229 470 213 470 c 0
+ 199 470 187 482 187 496 c 0
+ 187 512 201 522 213 522 c 0x1d0e
+ 228 522 239 511 239 496 c 0
+407 496 m 0
+ 407 484 397 470 381 470 c 0
+ 367 470 355 482 355 496 c 0
+ 355 512 369 522 381 522 c 0
+ 396 522 407 511 407 496 c 0
+481 449 m 0x1e0f
+ 481 437 471 423 455 423 c 0
+ 441 423 429 435 429 449 c 0
+ 429 465 443 475 455 475 c 0
+ 470 475 481 464 481 449 c 0x1e0f
+165 449 m 0x1e1e
+ 165 437 155 423 139 423 c 0
+ 125 423 113 435 113 449 c 0
+ 113 465 127 475 139 475 c 0
+ 154 475 165 464 165 449 c 0x1e1e
+118 375 m 0x1c2e
+ 118 363 108 349 92 349 c 0
+ 78 349 66 361 66 375 c 0
+ 66 391 80 401 92 401 c 0
+ 107 401 118 390 118 375 c 0x1c2e
+528 375 m 0x1c0e80
+ 528 363 518 349 502 349 c 0
+ 488 349 476 361 476 375 c 0
+ 476 391 490 401 502 401 c 0
+ 517 401 528 390 528 375 c 0x1c0e80
+100 291 m 0x1c4e
+ 100 279 90 265 74 265 c 0
+ 60 265 48 277 48 291 c 0
+ 48 307 62 317 74 317 c 0
+ 89 317 100 306 100 291 c 0x1c4e
+546 291 m 0x1c0e40
+ 546 279 536 265 520 265 c 0
+ 506 265 494 277 494 291 c 0
+ 494 307 508 317 520 317 c 0
+ 535 317 546 306 546 291 c 0x1c0e40
+118 207 m 0x1c2e
+ 118 195 108 181 92 181 c 0
+ 78 181 66 193 66 207 c 0
+ 66 223 80 233 92 233 c 0
+ 107 233 118 222 118 207 c 0x1c2e
+528 207 m 0x1c0e80
+ 528 195 518 181 502 181 c 0
+ 488 181 476 193 476 207 c 0
+ 476 223 490 233 502 233 c 0
+ 517 233 528 222 528 207 c 0x1c0e80
+165 133 m 0x3c1e
+ 165 121 155 107 139 107 c 0
+ 125 107 113 119 113 133 c 0
+ 113 149 127 159 139 159 c 0
+ 154 159 165 148 165 133 c 0x3c1e
+481 133 m 0x3c0f
+ 481 121 471 107 455 107 c 0
+ 441 107 429 119 429 133 c 0
+ 429 149 443 159 455 159 c 0
+ 470 159 481 148 481 133 c 0x3c0f
+239 86 m 0
+ 239 74 229 60 213 60 c 0
+ 199 60 187 72 187 86 c 0
+ 187 102 201 112 213 112 c 0x5c0e
+ 228 112 239 101 239 86 c 0
+407 86 m 0
+ 407 74 397 60 381 60 c 0
+ 367 60 355 72 355 86 c 0
+ 355 102 369 112 381 112 c 0
+ 396 112 407 101 407 86 c 0
+323 68 m 0
+ 323 56 313 42 297 42 c 0
+ 283 42 271 54 271 68 c 0
+ 271 84 285 94 297 94 c 0x9c0e
+ 312 94 323 83 323 68 c 0
+EndSplineSet
+EndChar
+
+StartChar: Punc.Space
+Encoding: 32 32 1
+Width: 260
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Gukh.A
+Encoding: 90368 90368 2
+Width: 749
+GlyphClass: 2
+Flags: W
+HStem: 0 21G<624 689> 28 70<258.903 403.426> 419 65<257.225 411.888> 560 65<-10 624 689 759>
+VStem: 60 61<298.983 354.951> 480 56<178.485 338.244> 624 65<0 185.152 268 560>
+AnchorPoint: "Virama" 470 26 basechar 0
+AnchorPoint: "Dot below" 386 22 basechar 0
+AnchorPoint: "Matra 625" 377 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+349 484 m 0
+ 404 484 547 464 624 268 c 1
+ 624 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 759 625 l 1
+ 759 560 l 1
+ 689 560 l 1
+ 689 0 l 1
+ 624 0 l 1
+ 624 87 l 1
+ 609 194 573 279 514 340 c 1
+ 529 310 536 277 536 242 c 0
+ 536 179 513 126 466 84 c 0
+ 426 47 380 29 329 28 c 0
+ 222 28 123 108 60 353 c 1
+ 121 370 l 1
+ 166 189 237 98 332 98 c 0
+ 401 98 480 159 480 264 c 0
+ 480 391 382 419 337 419 c 0
+ 310 419 285 411 262 396 c 1
+ 231 452 l 1
+ 264 473 304 484 349 484 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.K
+Encoding: 90369 90369 3
+Width: 617
+GlyphClass: 2
+Flags: W
+HStem: -10 65<146.933 248.129> 0 21G<492 557> 346 65<190.452 287 352 427.376> 560 65<-10 287 352 627>
+VStem: 48 65<94.3564 275.218> 287 65<100.422 346 411 560> 492 65<0 274.051>
+AnchorPoint: "Virama" 346 15 basechar 0
+AnchorPoint: "Dot below" 326 0 basechar 0
+AnchorPoint: "Matra 625" 318 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+113 183 m 0xbe
+ 113 152 123 55 198 55 c 0
+ 268 55 287 145 287 190 c 2
+ 287 346 l 1
+ 284 346 l 2
+ 219 346 113 327 113 183 c 0xbe
+48 186 m 0
+ 48 244 67 411 287 411 c 1
+ 287 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 627 625 l 1
+ 627 560 l 1
+ 352 560 l 1
+ 352 411 l 1
+ 433 408 504 382 545 265 c 0
+ 553 242 557 209 557 168 c 2
+ 557 0 l 1
+ 492 0 l 1x7e
+ 492 159 l 2
+ 492 256 463 342 352 346 c 1
+ 352 190 l 2
+ 352 80 293 -10 200 -10 c 0
+ 114 -10 48 62 48 186 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Kh
+Encoding: 90370 90370 4
+Width: 762
+GlyphClass: 2
+Flags: W
+HStem: -10 65<146.933 248.129> 0 21G<492 557 637 702> 346 65<190.452 287 352 425.957> 560 65<-10 287 352 637 702 772>
+VStem: 48 65<94.3564 275.218> 287 65<100.422 346 411 560> 492 65<0 272.076> 637 65<0 560>
+AnchorPoint: "Virama" 346 15 basechar 0
+AnchorPoint: "Dot below" 326 0 basechar 0
+AnchorPoint: "Matra 625" 342 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+113 183 m 0xbf
+ 113 152 123 55 198 55 c 0
+ 268 55 287 145 287 190 c 2
+ 287 346 l 1
+ 284 346 l 2
+ 219 346 113 327 113 183 c 0xbf
+352 411 m 1
+ 441 408 557 365 557 159 c 2
+ 557 0 l 1
+ 492 0 l 1x7f
+ 492 159 l 2
+ 492 256 463 342 352 346 c 1
+ 352 190 l 2
+ 352 80 293 -10 200 -10 c 0xbf
+ 114 -10 48 62 48 186 c 0
+ 48 244 67 411 287 411 c 1
+ 287 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 772 625 l 1
+ 772 560 l 1
+ 702 560 l 1
+ 702 0 l 1
+ 637 0 l 1x7f
+ 637 560 l 1
+ 352 560 l 1
+ 352 411 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.G
+Encoding: 90371 90371 5
+Width: 668
+GlyphClass: 2
+Flags: W
+HStem: 62 65<146.233 279.885> 239 65<138.939 280.602> 417 65<155.945 332.985> 560 65<-10 79 144 543 608 678>
+VStem: 61 65<146.577 224.236> 79 65<462 560> 386 65<232.934 367.373> 543 65<66 560>
+AnchorPoint: "Virama" 373 43 basechar 0
+AnchorPoint: "Dot below" 258 75 basechar 0
+AnchorPoint: "Matra 625" 323 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+126 186 m 0xfb
+ 126 163 151 127 210 127 c 0
+ 240 127 271 139 302 164 c 2
+ 328 184 l 1
+ 285 221 243 239 202 239 c 0
+ 196 239 126 238 126 186 c 0xfb
+420 186 m 1
+ 441 165 482 125 543 66 c 1
+ 543 560 l 1
+ 144 560 l 1
+ 144 462 l 1xf7
+ 181 475 213 482 238 482 c 0
+ 274 482 349 481 408 418 c 0
+ 437 387 451 348 451 302 c 0
+ 451 256 441 217 420 186 c 1
+386 297 m 0
+ 386 376 325 417 251 417 c 0
+ 212 417 171 405 128 382 c 2
+ 79 354 l 1
+ 79 560 l 1xf7
+ -10 560 l 1
+ -10 625 l 1
+ 678 625 l 1
+ 678 560 l 1
+ 608 560 l 1
+ 608 -42 l 1
+ 559 -42 l 1
+ 375 139 l 1
+ 342 113 l 2
+ 299 79 253 62 204 62 c 0
+ 116 62 61 123 61 194 c 0xfb
+ 61 254 122 304 201 304 c 0
+ 258 304 315 280 372 232 c 1
+ 381 251 386 273 386 297 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Gh
+Encoding: 90372 90372 6
+Width: 813
+GlyphClass: 2
+Flags: W
+HStem: 62 65<146.233 279.71> 239 65<138.939 280.602> 417 65<154.59 332.985> 560 65<-10 79 144 543 608 688 753 823>
+VStem: 61 65<146.577 224.236> 79 65<462 560> 386 65<232.934 367.373> 543 65<66 560> 688 65<-42 560>
+AnchorPoint: "Virama" 373 43 basechar 0
+AnchorPoint: "Dot below" 258 75 basechar 0
+AnchorPoint: "Matra 625" 361 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+420 186 m 1xf780
+ 441 165 482 125 543 66 c 1
+ 543 560 l 1
+ 144 560 l 1
+ 144 462 l 1
+ 181 475 213 482 238 482 c 0
+ 274 482 349 481 408 418 c 0
+ 437 387 451 348 451 302 c 0
+ 451 256 441 217 420 186 c 1xf780
+126 186 m 0xfb80
+ 126 163 151 127 210 127 c 0
+ 240 127 271 139 302 164 c 2
+ 328 184 l 1
+ 285 221 243 239 202 239 c 0
+ 196 239 126 238 126 186 c 0xfb80
+386 297 m 0
+ 386 376 325 417 251 417 c 0
+ 210 417 169 405 128 382 c 2
+ 79 354 l 1
+ 79 560 l 1xf780
+ -10 560 l 1
+ -10 625 l 1
+ 823 625 l 1
+ 823 560 l 1
+ 753 560 l 1
+ 753 -42 l 1
+ 688 -42 l 1
+ 688 560 l 1
+ 608 560 l 1
+ 608 -42 l 1
+ 559 -42 l 1
+ 375 139 l 1
+ 342 113 l 2
+ 299 79 252 62 204 62 c 0
+ 116 62 61 123 61 194 c 0
+ 61 254 122 304 201 304 c 0
+ 258 304 315 280 372 232 c 1
+ 381 251 386 273 386 297 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ng
+Encoding: 90373 90373 7
+Width: 652
+GlyphClass: 2
+Flags: W
+HStem: 62 65<146.156 278.974> 237 65<138.773 277.552> 417 65<154.59 332.124> 560 65<-10 79 144 662>
+VStem: 61 65<147.548 221.369> 79 65<462 560> 386 65<227.81 366.828>
+AnchorPoint: "Virama" 373 43 basechar 0
+AnchorPoint: "Dot below" 258 75 basechar 0
+AnchorPoint: "Matra 625" 306 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+61 184 m 0xfa
+ 61 282 164 302 205 302 c 0
+ 264 302 318 277 369 227 c 1
+ 380 247 386 272 386 304 c 0
+ 386 365 333 417 251 417 c 0
+ 210 417 169 405 128 382 c 2
+ 79 354 l 1
+ 79 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 662 625 l 1
+ 662 560 l 1
+ 144 560 l 1
+ 144 462 l 1xf6
+ 181 475 213 482 238 482 c 0
+ 274 482 349 481 408 418 c 0
+ 437 387 451 348 451 299 c 0
+ 451 250 438 209 413 176 c 1
+ 519 45 l 1
+ 567 127 l 1
+ 642 127 l 1
+ 544 -42 l 1
+ 507 -42 l 1
+ 365 131 l 1
+ 310 88 275 62 204 62 c 0
+ 105 62 61 138 61 184 c 0xfa
+126 185 m 0xfa
+ 126 164 150 127 210 127 c 0
+ 255 127 285 150 323 180 c 1
+ 285 217 246 236 205 237 c 0
+ 201 237 126 236 126 185 c 0xfa
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.C
+Encoding: 90374 90374 8
+Width: 658
+GlyphClass: 2
+Flags: W
+HStem: 62 65<136.28 267.273> 239 65<129.328 270.178> 429 66<125.781 313.695> 560 65<-10 533 598 668>
+VStem: 51 65<146.989 223.039> 376 65<236.356 371.889> 533 65<66 560>
+AnchorPoint: "Virama" 373 43 basechar 0
+AnchorPoint: "Dot below" 258 75 basechar 0
+AnchorPoint: "Matra 625" 302 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+376 308 m 0
+ 376 377 311 429 226 429 c 0
+ 175 429 127 414 83 383 c 1
+ 46 437 l 1
+ 102 476 160 495 221 495 c 0
+ 268 495 308 485 342 465 c 0
+ 416 422 441 371 441 300 c 0
+ 441 261 430 225 407 190 c 1
+ 533 66 l 1
+ 533 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 668 625 l 1
+ 668 560 l 1
+ 598 560 l 1
+ 598 -41 l 1
+ 549 -41 l 1
+ 364 140 l 1
+ 308 88 252 62 195 62 c 0
+ 120 62 51 113 51 186 c 0
+ 51 262 120 304 191 304 c 0
+ 248 304 303 281 358 235 c 1
+ 370 257 376 281 376 308 c 0
+116 184 m 0
+ 116 166 140 127 195 127 c 0
+ 234 127 274 146 317 185 c 1
+ 274 221 235 239 200 239 c 0
+ 172 239 116 233 116 184 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ch
+Encoding: 90375 90375 9
+Width: 803
+GlyphClass: 2
+Flags: W
+HStem: 62 65<136.28 267.273> 239 65<129.328 270.178> 429 66<125.781 313.695> 560 65<-10 533 598 678 743 813>
+VStem: 51 65<146.989 223.039> 376 65<236.356 371.889> 533 65<66 560> 678 65<-41 560>
+AnchorPoint: "Virama" 373 43 basechar 0
+AnchorPoint: "Dot below" 258 75 basechar 0
+AnchorPoint: "Matra 625" 360 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+116 184 m 0
+ 116 166 140 127 195 127 c 0
+ 234 127 274 146 317 185 c 1
+ 274 221 235 239 200 239 c 0
+ 172 239 116 233 116 184 c 0
+376 308 m 0
+ 376 377 311 429 226 429 c 0
+ 175 429 127 414 83 383 c 1
+ 46 437 l 1
+ 102 476 160 495 221 495 c 0
+ 268 495 308 485 342 465 c 0
+ 416 422 441 371 441 300 c 0
+ 441 261 430 225 407 190 c 1
+ 533 66 l 1
+ 533 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 813 625 l 1
+ 813 560 l 1
+ 743 560 l 1
+ 743 -41 l 1
+ 678 -41 l 1
+ 678 560 l 1
+ 598 560 l 1
+ 598 -41 l 1
+ 549 -41 l 1
+ 364 140 l 1
+ 308 88 252 62 195 62 c 0
+ 120 62 51 113 51 186 c 0
+ 51 262 120 304 191 304 c 0
+ 248 304 303 281 358 235 c 1
+ 370 257 376 281 376 308 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.J
+Encoding: 90376 90376 10
+Width: 599
+GlyphClass: 2
+Flags: W
+HStem: 10 65<158.554 311.427> 162 65<139.722 276.668> 300 65<114 187.801> 499 126<142.197 217.54> 560 65<-10 141 218 472 537 609>
+VStem: 71 65<96.9649 154.46> 251 65<410.746 486.999> 353 65<169.63 251.571> 474 65<56 560>
+AnchorPoint: "Virama" 374 24 basechar 0
+AnchorPoint: "Dot below" 239 13 basechar 0
+AnchorPoint: "Matra 625" 273 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+71 128 m 0xef80
+ 71 179 111 227 195 227 c 0
+ 248 227 301 208 352 169 c 1
+ 353 176 353 184 353 196 c 0
+ 353 226 337 300 172 300 c 2
+ 114 300 l 1
+ 110 365 l 1
+ 112 365 251 386 251 452 c 0
+ 251 491 203 499 175 499 c 0xf780
+ 140 499 110 487 86 462 c 1
+ 40 507 l 1
+ 65 534 99 551 141 560 c 1
+ -10 560 l 1
+ -10 625 l 1
+ 609 625 l 1
+ 609 560 l 1
+ 537 560 l 1
+ 539 -42 l 1
+ 482 -42 l 1
+ 372 63 l 1
+ 338 28 293 10 238 10 c 0
+ 132 10 71 68 71 128 c 0xef80
+136 128 m 0
+ 136 99 185 75 242 75 c 0
+ 276 75 303 86 325 108 c 1
+ 282 144 239 162 196 162 c 0
+ 185 162 136 160 136 128 c 0
+264 356 m 1
+ 325 343 418 306 418 192 c 0
+ 418 165 414 141 407 120 c 1
+ 474 56 l 1
+ 472 560 l 1
+ 218 560 l 1xef80
+ 286 546 316 494 316 452 c 0
+ 316 415 299 383 264 356 c 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Jh
+Encoding: 90377 90377 11
+Width: 744
+GlyphClass: 2
+Flags: W
+HStem: 10 65<158.554 311.427> 162 65<139.722 276.668> 300 65<114 187.801> 499 126<142.197 217.54> 560 65<-10 141 218 472 537 619 684 754>
+VStem: 71 65<96.9649 154.46> 251 65<410.746 486.999> 353 65<169.63 251.571> 474 65<56 560> 619 65<-42 560>
+AnchorPoint: "Virama" 374 24 basechar 0
+AnchorPoint: "Dot below" 239 13 basechar 0
+AnchorPoint: "Matra 625" 327 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+71 128 m 0xefc0
+ 71 179 111 227 195 227 c 0
+ 248 227 301 208 352 169 c 1
+ 353 176 353 184 353 196 c 0
+ 353 226 337 300 172 300 c 2
+ 114 300 l 1
+ 110 365 l 1
+ 112 365 251 386 251 452 c 0
+ 251 491 203 499 175 499 c 0xf7c0
+ 140 499 110 487 86 462 c 1
+ 40 507 l 1
+ 65 534 99 551 141 560 c 1
+ -10 560 l 1
+ -10 625 l 1
+ 754 625 l 1
+ 754 560 l 1
+ 684 560 l 1
+ 684 -42 l 1
+ 619 -42 l 1
+ 619 560 l 1
+ 537 560 l 1
+ 539 -42 l 1
+ 482 -42 l 1
+ 372 63 l 1
+ 338 28 293 10 238 10 c 0
+ 132 10 71 68 71 128 c 0xefc0
+136 128 m 0
+ 136 99 185 75 242 75 c 0
+ 276 75 303 86 325 108 c 1
+ 282 144 239 162 196 162 c 0
+ 185 162 136 160 136 128 c 0
+264 356 m 1
+ 325 343 418 306 418 192 c 0
+ 418 165 414 141 407 120 c 1
+ 474 56 l 1
+ 472 560 l 1
+ 218 560 l 1xefc0
+ 286 546 316 494 316 452 c 0
+ 316 415 299 383 264 356 c 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Oo
+Encoding: 90407 90407 12
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 50<-546 -50> 871 45<-310.842 -235.158> 1006 45<-310.842 -235.158>
+VStem: -363 45<923.158 998.842> -228 45<923.158 998.842> -50 50<825 965>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-273 871 m 0
+ -323 871 -363 911 -363 961 c 0
+ -363 1011 -323 1051 -273 1051 c 0
+ -223 1051 -183 1011 -183 961 c 0
+ -183 911 -223 871 -273 871 c 0
+-273 1006 m 0
+ -298 1006 -318 986 -318 961 c 0
+ -318 936 -298 916 -273 916 c 0
+ -248 916 -228 936 -228 961 c 0
+ -228 986 -248 1006 -273 1006 c 0
+-546 775 m 1
+ -546 825 l 1
+ -50 825 l 1
+ -50 965 l 1
+ 0 965 l 1
+ 0 775 l 1
+ -546 775 l 1
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.H
+Encoding: 90378 90378 13
+Width: 708
+GlyphClass: 2
+Flags: W
+HStem: 502 123<154.222 252.365 446.55 535.819> 560 65<-10 154 253 445 537 718>
+VStem: 51 65<230.023 467.39> 319 65<244 413.794> 545 65<31.7722 182.068> 593 65<206.859 441.516>
+AnchorPoint: "Virama" 484 -10 basechar 0
+AnchorPoint: "Dot below" 329 122 basechar 0
+AnchorPoint: "Matra 625" 351 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+319 244 m 1xb4
+ 319 327 310 502 201 502 c 0xb4
+ 144 502 116 455 116 362 c 0
+ 116 304 129 245 154 186 c 1
+ 95 160 l 1
+ 66 228 51 295 51 362 c 0
+ 51 421 64 529 154 560 c 1
+ -10 560 l 1
+ -10 625 l 1
+ 718 625 l 1
+ 718 560 l 1
+ 537 560 l 1
+ 620 531 658 433 658 328 c 0x74
+ 658 216 610 149 610 97 c 0
+ 610 70 625 36 656 -3 c 1
+ 605 -43 l 1
+ 565 8 545 51 545 86 c 0x78
+ 545 170 593 216 593 344 c 0
+ 593 435 547 502 493 502 c 0
+ 395 502 384 326 384 244 c 1
+ 319 244 l 1xb4
+253 560 m 1x70
+ 296 546 328 504 351 433 c 1
+ 374 504 405 546 445 560 c 1
+ 253 560 l 1x70
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Tt
+Encoding: 90379 90379 14
+Width: 609
+GlyphClass: 2
+Flags: W
+HStem: 68 66<171.093 367.983> 101 65<341.546 465.161> 393 66<180.306 386.991> 560 65<-10 388 453 619>
+VStem: 50 65<192.352 335.355> 388 65<446 560>
+AnchorPoint: "Virama" 419 2 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 313 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+278 393 m 0xbc
+ 254 393 115 388 115 270 c 8
+ 115 244 123 134 255 134 c 0xbc
+ 341 134 369 166 422 166 c 0
+ 429 166 509 164 536 85 c 2
+ 579 -42 l 1
+ 511 -42 l 1
+ 474 64 l 2
+ 465 88 447 100 420 101 c 0x7c
+ 392 101 343 69 256 68 c 0
+ 121 68 50 161 50 270 c 0
+ 50 398 164 459 280 459 c 0
+ 313 459 349 455 388 446 c 1
+ 388 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 619 625 l 1
+ 619 560 l 1
+ 453 560 l 1
+ 453 359 l 1
+ 411 372 l 2
+ 366 386 321 393 278 393 c 0xbc
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Tth
+Encoding: 90380 90380 15
+Width: 758
+GlyphClass: 2
+Flags: W
+HStem: 68 66<171.093 367.983> 101 65<341.546 465.161> 393 66<180.306 386.991> 560 65<-10 388 453 633 698 768>
+VStem: 50 65<192.352 335.355> 388 65<446 560> 633 65<-42 560>
+AnchorPoint: "Virama" 419 2 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 372 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+278 393 m 0xbe
+ 254 393 115 388 115 270 c 0
+ 115 244 123 134 255 134 c 0xbe
+ 341 134 369 166 422 166 c 0
+ 429 166 509 164 536 85 c 2
+ 579 -42 l 1
+ 511 -42 l 1
+ 474 64 l 2
+ 465 88 447 100 420 101 c 0x7e
+ 392 101 343 69 256 68 c 0
+ 121 68 50 161 50 270 c 0
+ 50 398 164 459 280 459 c 0
+ 313 459 349 455 388 446 c 1
+ 388 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 768 625 l 1
+ 768 560 l 1
+ 698 560 l 1
+ 698 -42 l 1
+ 633 -42 l 1
+ 633 560 l 1
+ 453 560 l 1
+ 453 359 l 1
+ 411 372 l 2
+ 366 386 321 393 278 393 c 0xbe
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Dd
+Encoding: 90381 90381 16
+Width: 692
+GlyphClass: 2
+Flags: W
+HStem: 68 66<170.255 371.445> 101 64<339.118 484.755> 393 66<179.773 386.171> 560 65<-10 388 453 567 632 702>
+VStem: 50 65<190.839 335.427> 388 65<446 560> 567 65<84 560>
+AnchorPoint: "Virama" 447 2 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 338 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+278 393 m 0x7e
+ 162 393 115 332 115 270 c 0
+ 115 231 128 134 258 134 c 0xbe
+ 334 134 375 165 424 165 c 0
+ 479 165 521 144 552 103 c 1
+ 567 84 l 1
+ 567 560 l 1
+ 453 560 l 1
+ 453 359 l 1
+ 411 372 l 1
+ 362 386 318 393 278 393 c 0x7e
+50 270 m 0
+ 50 411 187 459 266 459 c 0
+ 308 459 349 455 388 446 c 1
+ 388 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 702 625 l 1
+ 702 560 l 1
+ 632 560 l 1
+ 632 -42 l 1
+ 581 -42 l 1
+ 500 64 l 2
+ 481 88 457 100 426 101 c 0x7e
+ 388 101 340 69 256 68 c 0
+ 150 68 50 136 50 270 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ddh
+Encoding: 90382 90382 17
+Width: 838
+GlyphClass: 2
+Flags: W
+HStem: 68 66<170.255 371.445> 101 64<339.118 484.755> 393 66<179.773 386.171> 560 65<-10 388 453 567 632 713 778 848>
+VStem: 50 65<190.839 335.427> 388 65<446 560> 567 65<84 560> 713 65<-42 560>
+AnchorPoint: "Virama" 447 2 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 372 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+278 393 m 0x7f
+ 162 393 115 332 115 270 c 0
+ 115 231 128 134 258 134 c 0xbf
+ 334 134 375 165 424 165 c 0
+ 479 165 521 144 552 103 c 1
+ 567 84 l 1
+ 567 560 l 1
+ 453 560 l 1
+ 453 359 l 1
+ 411 372 l 1
+ 362 386 318 393 278 393 c 0x7f
+50 270 m 0
+ 50 411 187 459 266 459 c 0
+ 308 459 349 455 388 446 c 1
+ 388 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 848 625 l 1
+ 848 560 l 1
+ 778 560 l 1
+ 778 -42 l 1
+ 713 -42 l 1
+ 713 560 l 1
+ 632 560 l 1
+ 632 -42 l 1
+ 581 -42 l 1
+ 500 64 l 2
+ 481 88 457 100 426 101 c 0x7f
+ 388 101 340 69 256 68 c 0
+ 150 68 50 136 50 270 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.V
+Encoding: 90383 90383 18
+Width: 637
+GlyphClass: 2
+Flags: W
+HStem: 337 58<180.007 337.632> 403 80<509.181 580.677> 502 123<192.637 304.91> 560 65<-10 192 307 647>
+VStem: 50 65<325.891 402.972> 362 65<419.126 476.565> 505 80<407.885 478.115> 512 65<86 341>
+AnchorPoint: "Virama" 393 32 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 318 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+544 403 m 4xce
+ 522 403 505 420 505 443 c 4
+ 505 466 522 483 544 483 c 4
+ 565 483 585 467 585 443 c 4
+ 585 419 565 403 544 403 c 4xce
+50 393 m 4
+ 50 444 69 532 192 560 c 5
+ -10 560 l 5
+ -10 625 l 5
+ 647 625 l 5
+ 647 560 l 5
+ 307 560 l 5
+ 364 547 427 516 427 442 c 4
+ 427 380 355 337 279 337 c 4
+ 226 337 164 351 116 405 c 5
+ 116 402 116 396 115 388 c 4
+ 115 323 174 272 292 234 c 4
+ 383 205 457 155 512 86 c 5
+ 512 341 l 5
+ 577 341 l 5
+ 577 -42 l 5xdd
+ 511 -42 l 5
+ 503 -20 l 6
+ 468 75 391 140 271 176 c 4
+ 210 195 164 215 134 238 c 4
+ 104 261 85 281 76 299 c 4
+ 59 330 51 362 50 393 c 4
+362 446 m 4
+ 362 478 299 502 259 502 c 4xec
+ 201 501 160 487 136 458 c 5
+ 154 431 191 395 270 395 c 4
+ 311 395 362 425 362 446 c 4
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.T
+Encoding: 90384 90384 19
+Width: 597
+GlyphClass: 2
+Flags: W
+HStem: 0 21G<35 122.357 466.857 562> 560 65<-10 356 431 607>
+AnchorPoint: "Virama" 370 39 basechar 0
+AnchorPoint: "Dot below" 278 18 basechar 0
+AnchorPoint: "Matra 625" 304 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-10 625 m 1
+ 607 625 l 1
+ 607 560 l 1
+ 431 560 l 1
+ 306 341 l 1
+ 562 0 l 1
+ 482 0 l 1
+ 270 280 l 1
+ 111 0 l 1
+ 35 0 l 1
+ 356 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Th
+Encoding: 90385 90385 20
+Width: 752
+GlyphClass: 2
+Flags: W
+HStem: 0 21G<35 122.357 466.857 562 627 692> 560 65<-10 356 431 627 692 762>
+VStem: 627 65<0 560>
+AnchorPoint: "Virama" 370 39 basechar 0
+AnchorPoint: "Dot below" 278 18 basechar 0
+AnchorPoint: "Matra 625" 363 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-10 560 m 1
+ -10 625 l 1
+ 762 625 l 1
+ 762 560 l 1
+ 692 560 l 1
+ 692 0 l 1
+ 627 0 l 1
+ 627 560 l 1
+ 431 560 l 1
+ 306 341 l 1
+ 562 0 l 1
+ 482 0 l 1
+ 270 280 l 1
+ 111 0 l 1
+ 35 0 l 1
+ 356 560 l 1
+ -10 560 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.B
+Encoding: 90391 90391 21
+Width: 637
+GlyphClass: 2
+Flags: W
+HStem: 337 58<179.978 337.586> 502 123<192.637 304.91> 560 65<-10 192 307 512 577 647>
+VStem: 50 65<325.658 402.972> 362 65<419.126 476.565> 512 65<86 560>
+AnchorPoint: "Virama" 393 32 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 318 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+362 446 m 0xdc
+ 362 478 299 502 259 502 c 0
+ 201 502 160 487 136 458 c 1
+ 154 431 191 395 270 395 c 0
+ 312 395 361 425 362 446 c 0xdc
+50 393 m 0
+ 50 444 69 532 192 560 c 1
+ -10 560 l 1
+ -10 625 l 1
+ 647 625 l 1
+ 647 560 l 1
+ 577 560 l 1xbc
+ 577 -42 l 1
+ 511 -42 l 1
+ 503 -20 l 2
+ 469 74 391 139 271 176 c 0
+ 210 195 164 215 134 238 c 0
+ 104 261 85 281 76 299 c 0
+ 60 331 51 362 50 393 c 0
+279 337 m 0
+ 232 337 166 349 116 405 c 1
+ 116 402 116 396 115 388 c 0
+ 115 323 174 271 292 234 c 0
+ 383 205 457 155 512 86 c 1
+ 512 560 l 1
+ 307 560 l 1
+ 364 547 427 516 427 442 c 0
+ 427 380 355 337 279 337 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.D
+Encoding: 90386 90386 22
+Width: 619
+Flags: W
+HStem: -10 65<125.368 295.293> 136 65<119.675 254.606> 246 64<146.507 319.92> 419 64<126.365 332.689> 560 65<-10 335 400 494 559 629>
+VStem: 50 65<68.1487 130.154 337.044 404.389> 335 65<474 560> 363 65<134.223 208.59> 494 65<47 560>
+AnchorPoint: "Virama" 372 0 basechar 0
+AnchorPoint: "Dot below" 245 0 basechar 0
+AnchorPoint: "Matra 625" 304 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+196 419 m 0xfe80
+ 179 419 115 411 115 373 c 0
+ 115 319 218 311 243 310 c 0
+ 347 306 428 247 428 163 c 0xfd80
+ 428 142 423 120 412 99 c 1
+ 494 47 l 1
+ 494 560 l 1
+ 400 560 l 1
+ 400 403 l 1
+ 237 417 l 2
+ 222 418 208 419 196 419 c 0xfe80
+115 95 m 0
+ 115 94 117 55 204 55 c 0
+ 243 55 279 65 311 85 c 1
+ 253 119 206 136 170 136 c 0
+ 134 136 115 122 115 95 c 0
+50 372 m 0
+ 50 432 104 483 192 483 c 0
+ 215 483 262 480 335 474 c 1
+ 335 560 l 1xfe80
+ -10 560 l 1
+ -10 625 l 1
+ 629 625 l 1
+ 629 560 l 1
+ 559 560 l 1
+ 559 -42 l 1
+ 513 -42 l 1
+ 370 48 l 1
+ 325 9 270 -10 204 -10 c 0
+ 126 -10 77 16 57 67 c 0
+ 52 78 50 90 50 102 c 0
+ 50 142 84 201 168 201 c 0
+ 220 201 283 179 356 134 c 1
+ 360 143 362 153 363 163 c 0
+ 363 226 279 244 232 246 c 0
+ 161 249 110 267 79 302 c 0
+ 60 323 50 347 50 372 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Dh
+Encoding: 90387 90387 23
+Width: 764
+Flags: W
+HStem: -10 65<125.725 295.293> 136 65<119.675 254.606> 246 64<146.507 319.92> 419 64<126.365 332.689> 560 65<-10 335 400 494 559 639 704 774>
+VStem: 50 65<68.1487 130.154 337.044 404.389> 335 65<474 560> 363 65<134.223 208.59> 494 65<47 560> 639 65<-42 560>
+AnchorPoint: "Virama" 372 0 basechar 0
+AnchorPoint: "Dot below" 245 0 basechar 0
+AnchorPoint: "Matra 625" 351 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+115 95 m 0xfcc0
+ 115 94 117 55 204 55 c 0
+ 243 55 279 65 311 85 c 1
+ 253 119 206 136 170 136 c 0
+ 134 136 115 122 115 95 c 0xfcc0
+196 419 m 0
+ 179 419 115 411 115 373 c 0
+ 115 319 218 311 243 310 c 0
+ 347 306 428 247 428 163 c 0xfdc0
+ 428 142 423 120 412 99 c 1
+ 494 47 l 1
+ 494 560 l 1
+ 400 560 l 1
+ 400 403 l 1xfec0
+ 237 417 l 2
+ 222 418 208 419 196 419 c 0
+50 372 m 0
+ 50 432 104 483 192 483 c 0
+ 215 483 262 480 335 474 c 1
+ 335 560 l 1xfec0
+ -10 560 l 1
+ -10 625 l 1
+ 774 625 l 1
+ 774 560 l 1
+ 704 560 l 1
+ 704 -42 l 1
+ 639 -42 l 1
+ 639 560 l 1
+ 559 560 l 1
+ 559 -42 l 1
+ 513 -42 l 1
+ 370 48 l 1
+ 325 9 270 -10 204 -10 c 0
+ 127 -10 78 16 57 67 c 0
+ 52 78 50 90 50 102 c 0
+ 50 142 84 201 168 201 c 0
+ 220 201 283 179 356 134 c 1
+ 360 143 362 153 363 163 c 0
+ 363 226 279 244 232 246 c 0
+ 161 249 110 267 79 302 c 0
+ 60 323 50 347 50 372 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.N
+Encoding: 90388 90388 24
+Width: 653
+GlyphClass: 2
+Flags: W
+HStem: -10 67<221.614 294 359 433.034> 560 65<-10 294 359 663>
+VStem: 294 65<57 560>
+AnchorPoint: "Virama" 478 27 basechar 0
+AnchorPoint: "Dot below" 327 0 basechar 0
+AnchorPoint: "Matra 625" 327 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+359 57 m 1
+ 430 65 497 100 562 212 c 1
+ 619 180 l 1
+ 588 127 552 83 509 49 c 0
+ 461 10 400 -10 327 -10 c 0
+ 276 -10 142 -8 35 180 c 1
+ 91 212 l 1
+ 148 112 211 66 294 57 c 1
+ 294 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 663 625 l 1
+ 663 560 l 1
+ 359 560 l 1
+ 359 57 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.P
+Encoding: 90389 90389 25
+Width: 540
+Flags: W
+HStem: -10 66<197.837 352.824> 355 65<196.22 351.363> 560 65<-10 60 125 550>
+VStem: 60 65<127.706 284.021 339 560> 425 65<127.09 284.634>
+AnchorPoint: "Virama" 386 8 basechar 0
+AnchorPoint: "Dot below" 274 0 basechar 0
+AnchorPoint: "Matra 625" 274 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+425 206 m 0
+ 425 291 358 355 274 355 c 0
+ 190 355 125 290 125 206 c 0
+ 125 122 190 56 274 56 c 0
+ 358 56 425 121 425 206 c 0
+125 339 m 1
+ 143 362 195 420 284 420 c 0
+ 398 420 490 325 490 206 c 0
+ 490 87 393 -10 274 -10 c 0
+ 154 -10 60 87 60 205 c 2
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 550 625 l 1
+ 550 560 l 1
+ 125 560 l 1
+ 125 339 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ph
+Encoding: 90390 90390 26
+Width: 685
+Flags: W
+HStem: -10 66<197.837 352.824> 0 21G<560 625> 355 65<196.22 351.363> 560 65<-10 60 125 560 625 695>
+VStem: 60 65<127.706 284.021 339 560> 425 65<127.09 284.634> 560 65<0 560>
+AnchorPoint: "Virama" 386 8 basechar 0
+AnchorPoint: "Dot below" 274 0 basechar 0
+AnchorPoint: "Matra 625" 326 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 339 m 1x7e
+ 143 362 195 420 284 420 c 0
+ 398 420 490 325 490 206 c 0
+ 490 87 393 -10 274 -10 c 0xbe
+ 154 -10 60 87 60 205 c 2
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 695 625 l 1
+ 695 560 l 1
+ 625 560 l 1
+ 625 0 l 1
+ 560 0 l 1
+ 560 560 l 1
+ 125 560 l 1
+ 125 339 l 1x7e
+425 206 m 0
+ 425 291 358 355 274 355 c 0
+ 190 355 125 290 125 206 c 0
+ 125 122 190 56 274 56 c 0
+ 358 56 425 121 425 206 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Bh
+Encoding: 90392 90392 27
+Width: 782
+GlyphClass: 2
+Flags: W
+HStem: 337 58<180.007 337.632> 502 123<192.637 304.91> 560 65<-10 192 307 512 577 657 722 792>
+VStem: 50 65<325.891 402.972> 362 65<419.126 476.565> 512 65<86 560> 657 65<-42 560>
+AnchorPoint: "Virama" 393 32 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 376 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+362 446 m 0xde
+ 362 478 299 502 259 502 c 0
+ 201 501 160 487 136 458 c 1
+ 154 431 191 395 270 395 c 0
+ 311 395 362 425 362 446 c 0xde
+50 393 m 0
+ 50 444 69 532 192 560 c 1
+ -10 560 l 1
+ -10 625 l 1
+ 792 625 l 1
+ 792 560 l 1
+ 722 560 l 1
+ 722 -42 l 1
+ 657 -42 l 1
+ 657 560 l 1
+ 577 560 l 1xbe
+ 577 -42 l 1
+ 511 -42 l 1
+ 503 -20 l 2
+ 468 75 391 140 271 176 c 0
+ 210 195 164 215 134 238 c 0
+ 104 261 85 281 76 299 c 0
+ 59 330 51 362 50 393 c 0
+279 337 m 0
+ 226 337 164 351 116 405 c 1
+ 116 402 116 396 115 388 c 0
+ 115 323 174 272 292 234 c 0
+ 383 205 457 155 512 86 c 5
+ 512 560 l 1
+ 307 560 l 1
+ 364 547 427 516 427 442 c 0
+ 427 380 355 337 279 337 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.M
+Encoding: 90393 90393 28
+Width: 594
+GlyphClass: 2
+Flags: W
+HStem: 0 21G<35 133.75> 560 65<-10 35 118 477 559 604>
+AnchorPoint: "Virama" 264 127 basechar 0
+AnchorPoint: "Dot below" 311 62 basechar 0
+AnchorPoint: "Matra 625" 283 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+298 333 m 1
+ 477 560 l 1
+ 118 560 l 1
+ 298 333 l 1
+-10 625 m 1
+ 604 625 l 1
+ 604 560 l 1
+ 559 560 l 1
+ 118 0 l 1
+ 35 0 l 1
+ 257 281 l 1
+ 35 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Y
+Encoding: 90394 90394 29
+Width: 583
+GlyphClass: 2
+Flags: W
+HStem: 403 80<455.181 526.677> 560 65<-10 60 125 593>
+VStem: 60 65<313.633 560> 451 80<407.885 478.115> 458 65<-42 -18 117 341>
+AnchorPoint: "Virama" 330 42 basechar 0
+AnchorPoint: "Dot below" 283 40 basechar 0
+AnchorPoint: "Matra 625" 301 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+490 403 m 0xf0
+ 468 403 451 420 451 443 c 0
+ 451 466 468 483 490 483 c 0
+ 511 483 531 467 531 443 c 0
+ 531 419 511 403 490 403 c 0xf0
+458 117 m 1xe8
+ 458 341 l 1
+ 523 341 l 1
+ 523 -42 l 1
+ 463 -42 l 1
+ 457 -18 l 2
+ 422 118 219 254 92 254 c 2
+ 60 254 l 1
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 593 625 l 1
+ 593 560 l 1
+ 125 560 l 1
+ 125 317 l 1
+ 233 303 374 225 458 117 c 1xe8
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.R
+Encoding: 90395 90395 30
+Width: 612
+GlyphClass: 2
+Flags: W
+HStem: 560 65<-10 156 221 622>
+VStem: 156 65<341.187 560>
+AnchorPoint: "Virama" 366 50 basechar 0
+AnchorPoint: "Dot below" 281 55 basechar 0
+AnchorPoint: "Matra 625" 305 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+538 -43 m 1
+ 312 265 235 282 186 282 c 0
+ 147 282 113 259 85 214 c 1
+ 30 249 l 1
+ 63 302 105 333 156 343 c 1
+ 156 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 622 625 l 1
+ 622 560 l 1
+ 221 560 l 1
+ 221 346 l 1
+ 292 335 395 263 591 -5 c 1
+ 538 -43 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.L
+Encoding: 90396 90396 31
+Width: 713
+GlyphClass: 2
+Flags: W
+HStem: 0 65<162.149 243.447 406.753 505.501> 390 65<519.37 571.046> 560 65<-10 60 125 723>
+VStem: 60 65<113.554 560> 279 65<158.379 354> 432 66<177.138 369.171> 590 65<160.649 372.726>
+AnchorPoint: "Virama" 411 1 basechar 0
+AnchorPoint: "Dot below" 321 0 basechar 0
+AnchorPoint: "Matra 625" 328 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+206 65 m 0
+ 278 65 279 217 279 354 c 1
+ 344 354 l 1
+ 344 166 376 65 469 65 c 0
+ 481 65 493 69 506 78 c 1
+ 438 165 431 222 432 275 c 0
+ 432 277 432 453 545 455 c 0
+ 608 455 655 390 655 275 c 0
+ 655 198 635 131 595 76 c 1
+ 622 49 648 28 673 15 c 1
+ 643 -43 l 1
+ 611 -26 580 -2 549 29 c 1
+ 523 10 496 0 469 0 c 0
+ 402 0 353 32 321 95 c 1
+ 298 32 261 0 209 0 c 0
+ 139 0 59 40 60 276 c 1
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 723 625 l 1
+ 723 560 l 1
+ 125 560 l 1
+ 125 276 l 2
+ 125 91 171 65 206 65 c 0
+590 275 m 0
+ 590 341 571 390 545 390 c 0
+ 520 390 498 337 498 273 c 0
+ 498 208 515 176 551 128 c 1
+ 577 169 590 218 590 275 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.S
+Encoding: 90397 90397 32
+Width: 593
+GlyphClass: 2
+Flags: W
+HStem: 10 65<156.642 311.657> 159 64<140.647 286.369> 300 65<114 184.841> 499 126<141.434 218.502> 560 65<-10 140 220 603>
+VStem: 71 65<96.8242 150.218> 251 65<411.073 485.525> 353 65<173.309 249.616>
+AnchorPoint: "Virama" 352 0 basechar 0
+AnchorPoint: "Dot below" 233 13 basechar 0
+AnchorPoint: "Matra 625" 273 625 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+136 126 m 0xe7
+ 136 100 184 75 233 75 c 0
+ 273 75 304 86 326 109 c 1
+ 278 158 204 159 203 159 c 0
+ 202 159 136 158 136 126 c 0xe7
+353 187 m 2
+ 353 266 292 300 146 300 c 2
+ 114 300 l 1
+ 110 365 l 1
+ 112 365 251 387 251 451 c 0
+ 251 498 184 499 179 499 c 0xf7
+ 142 499 111 487 86 462 c 1
+ 40 507 l 1
+ 67 534 100 552 140 560 c 1
+ -10 560 l 1
+ -10 625 l 1
+ 603 625 l 1
+ 603 560 l 1
+ 220 560 l 1xef
+ 246 554 316 530 316 446 c 0
+ 316 413 299 383 264 356 c 1
+ 294 350 418 323 418 190 c 0
+ 418 162 414 137 405 115 c 1
+ 464 40 l 1
+ 508 117 l 1
+ 583 117 l 1
+ 491 -42 l 1
+ 446 -42 l 1
+ 367 58 l 1
+ 333 26 288 10 231 10 c 0
+ 147 10 71 59 71 128 c 0
+ 71 182 120 223 204 223 c 0
+ 261 223 310 206 353 173 c 1
+ 353 187 l 2
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Aa
+Encoding: 90398 90398 33
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.I
+Encoding: 90399 90399 34
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 670 45<-311.95 -234.05> 805 45<-311.95 -234.05>
+VStem: -363 45<721.05 798.95> -228 45<721.05 798.95>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-273 805 m 0
+ -299 805 -318 786 -318 760 c 0
+ -318 734 -299 715 -273 715 c 0
+ -247 715 -228 734 -228 760 c 0
+ -228 786 -247 805 -273 805 c 0
+-273 670 m 0
+ -323 670 -363 710 -363 760 c 0
+ -363 810 -323 850 -273 850 c 0
+ -223 850 -183 810 -183 760 c 0
+ -183 710 -223 670 -273 670 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Ii
+Encoding: 90400 90400 35
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 670 45<-452.95 -375.05 -170.057 -94.0593> 805 45<-452.95 -375.05 -170.057 -94.0593>
+VStem: -504 45<721.05 798.95> -369 45<721.05 798.95> -222 45<721.268 798.732> -87 45<721.547 798.453>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-414 805 m 0
+ -440 805 -459 786 -459 760 c 0
+ -459 734 -440 715 -414 715 c 0
+ -388 715 -369 734 -369 760 c 0
+ -369 786 -388 805 -414 805 c 0
+-414 670 m 0
+ -464 670 -504 710 -504 760 c 0
+ -504 810 -464 850 -414 850 c 0
+ -364 850 -324 810 -324 760 c 0
+ -324 710 -364 670 -414 670 c 0
+-132 805 m 0
+ -157 805 -177 786 -177 760 c 0
+ -177 734 -157 715 -132 715 c 0
+ -108 715 -87 734 -87 760 c 0
+ -87 786 -108 805 -132 805 c 0
+-132 670 m 0
+ -183 670 -222 711 -222 760 c 0
+ -222 809 -183 850 -132 850 c 0
+ -81 850 -42 809 -42 760 c 0
+ -42 711 -81 670 -132 670 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.U
+Encoding: 90401 90401 36
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 50<-546 0>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+-546 775 m 1
+ -546 825 l 1
+ 0 825 l 1
+ 0 775 l 1
+ -546 775 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Uu
+Encoding: 90402 90402 37
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 50<-546 -50>
+VStem: -50 50<825 965>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-546 775 m 1
+ -546 825 l 1
+ -50 825 l 1
+ -50 965 l 1
+ 0 965 l 1
+ 0 775 l 1
+ -546 775 l 1
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.E
+Encoding: 90403 90403 38
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 770 45<-311.95 -234.05> 905 45<-311.95 -234.05>
+VStem: -363 45<821.05 898.95> -228 45<821.05 898.95>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+-273 905 m 0
+ -299 905 -318 886 -318 860 c 0
+ -318 834 -299 815 -273 815 c 0
+ -247 815 -228 834 -228 860 c 0
+ -228 886 -247 905 -273 905 c 0
+-273 770 m 0
+ -323 770 -363 810 -363 860 c 0
+ -363 910 -323 950 -273 950 c 0
+ -223 950 -183 910 -183 860 c 0
+ -183 810 -223 770 -273 770 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Ee
+Encoding: 90404 90404 39
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 -50> 770 45<-311.95 -234.05> 905 45<-311.95 -234.05>
+VStem: -363 45<821.05 898.95> -228 45<821.05 898.95> -50 50<725 865>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-273 770 m 0
+ -323 770 -363 810 -363 860 c 0
+ -363 910 -323 950 -273 950 c 0
+ -223 950 -183 910 -183 860 c 0
+ -183 810 -223 770 -273 770 c 0
+-273 905 m 0
+ -299 905 -318 886 -318 860 c 0
+ -318 834 -299 815 -273 815 c 0
+ -247 815 -228 834 -228 860 c 0
+ -228 886 -247 905 -273 905 c 0
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ -50 725 l 1
+ -50 865 l 1
+ 0 865 l 1
+ 0 675 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Ai
+Encoding: 90405 90405 40
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 771 45<-452.782 -375.109 -170.999 -93.0009> 906 45<-451.341 -376.659 -169.465 -94.5348>
+VStem: -504 45<822.669 898.507> -369 45<822.393 898.391> -222 45<822.393 898.391> -87 45<822.393 898.391>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+-414 906 m 4
+ -439 906 -459 885 -459 860 c 4
+ -459 835 -438 816 -414 816 c 4
+ -389 816 -369 835 -369 860 c 4
+ -369 884 -389 906 -414 906 c 4
+-414 771 m 4
+ -463 771 -504 809 -504 860 c 4
+ -504 911 -463 951 -414 951 c 4
+ -365 951 -324 911 -324 860 c 4
+ -324 809 -365 771 -414 771 c 4
+-132 906 m 0
+ -158 906 -177 884 -177 860 c 0
+ -177 835 -158 816 -132 816 c 0
+ -106 816 -87 835 -87 860 c 0
+ -87 884 -106 906 -132 906 c 0
+-132 771 m 0
+ -181 771 -222 809 -222 860 c 0
+ -222 911 -181 951 -132 951 c 0
+ -83 951 -42 911 -42 860 c 0
+ -42 809 -83 771 -132 771 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.O
+Encoding: 90406 90406 41
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 50<-546 0> 871 45<-311.999 -234.001> 1006 45<-310.465 -235.535>
+VStem: -363 45<922.393 998.391> -228 45<922.393 998.391>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-273 871 m 0
+ -322 871 -363 909 -363 960 c 0
+ -363 1011 -322 1051 -273 1051 c 0
+ -224 1051 -183 1011 -183 960 c 0
+ -183 909 -224 871 -273 871 c 0
+-273 1006 m 0
+ -299 1006 -318 984 -318 960 c 0
+ -318 935 -299 916 -273 916 c 0
+ -247 916 -228 935 -228 960 c 0
+ -228 984 -247 1006 -273 1006 c 0
+-546 775 m 1
+ -546 825 l 1
+ 0 825 l 1
+ 0 775 l 1
+ -546 775 l 1
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Au
+Encoding: 90408 90408 42
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 50<-546 0> 871 45<-452.782 -375.109 -170.999 -93.0009> 1006 45<-451.341 -376.659 -169.465 -94.5348>
+VStem: -504 45<922.669 998.507> -369 45<922.393 998.391> -222 45<922.393 998.391> -87 45<922.393 998.391>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+-414 1006 m 0
+ -439 1006 -459 985 -459 960 c 0
+ -459 935 -438 916 -414 916 c 0
+ -389 916 -369 935 -369 960 c 0
+ -369 984 -389 1006 -414 1006 c 0
+-414 871 m 0
+ -463 871 -504 909 -504 960 c 0
+ -504 1011 -463 1051 -414 1051 c 0
+ -365 1051 -324 1011 -324 960 c 0
+ -324 909 -365 871 -414 871 c 0
+0 775 m 1
+ -546 775 l 1
+ -546 825 l 1
+ 0 825 l 1
+ 0 775 l 1
+-132 1006 m 0
+ -158 1006 -177 984 -177 960 c 0
+ -177 935 -158 916 -132 916 c 0
+ -106 916 -87 935 -87 960 c 0
+ -87 984 -106 1006 -132 1006 c 0
+-132 871 m 0
+ -181 871 -222 909 -222 960 c 0
+ -222 1011 -181 1051 -132 1051 c 0
+ -83 1051 -42 1011 -42 960 c 0
+ -42 909 -83 871 -132 871 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: u16129
+Encoding: 90409 90409 43
+Width: 0
+Flags: W
+HStem: 675 50<-546 -50>
+VStem: -50 50<725 865>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ -50 725 l 1
+ -50 865 l 1
+ 0 865 l 1
+ 0 675 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.Y
+Encoding: 90410 90410 44
+Width: 145
+GlyphClass: 5
+Flags: W
+HStem: -133 65<125 289.855> 560 65<-10 60 125 155>
+VStem: 60 65<-68 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+530 -195 m 1
+ 381 -145 302 -133 60 -133 c 1
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 155 625 l 1
+ 155 560 l 1
+ 125 560 l 1
+ 125 -68 l 1
+ 318 -69 418 -88 551 -134 c 1
+ 530 -195 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.V
+Encoding: 90411 90411 45
+Width: 145
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 560 65<-10 60 125 155>
+VStem: 60 65<-63 560> 492 65<-198.932 -164.73>
+AnchorPoint: "Virama" 631 -40 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+557 -189 m 0
+ 557 -232 516 -264 474 -264 c 0
+ 457 -264 439 -262 422 -257 c 1
+ 438 -194 l 1
+ 449 -197 460 -199 473 -199 c 0
+ 486 -199 492 -194 492 -184 c 0
+ 492 -174 483 -166 466 -163 c 0
+ 356 -140 231 -128 92 -128 c 2
+ 60 -128 l 1
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 155 625 l 1
+ 155 560 l 1
+ 125 560 l 1
+ 125 -63 l 1
+ 255 -64 373 -76 480 -99 c 0
+ 498 -103 557 -120 557 -189 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.H
+Encoding: 90412 90412 46
+Width: 250
+GlyphClass: 2
+Flags: W
+HStem: 11 50<68.7741 151.226> 161 50<68.8914 151.109> 285 50<68.7741 151.226> 435 50<68.8914 151.109> 560 65<-10 260>
+VStem: 10 50<69.9346 151.821 343.935 425.821> 160 50<69.9346 151.821 343.935 425.821>
+AnchorPoint: "Matra 625" 110 625 basechar 0
+AnchorPoint: "Dot below" 110 0 basechar 0
+AnchorPoint: "Virama" 114 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-10 625 m 1
+ 260 625 l 1
+ 260 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+110 435 m 0
+ 81 435 60 411 60 384 c 0
+ 60 357 81 335 110 335 c 0
+ 139 335 160 357 160 384 c 0
+ 160 411 139 435 110 435 c 0
+110 285 m 0
+ 56 285 10 327 10 384 c 0
+ 10 440 55 485 110 485 c 0
+ 165 485 210 440 210 384 c 0
+ 210 327 164 285 110 285 c 0
+110 161 m 0
+ 81 161 60 137 60 110 c 0
+ 60 83 81 61 110 61 c 0
+ 139 61 160 83 160 110 c 0
+ 160 137 139 161 110 161 c 0
+110 11 m 0
+ 56 11 10 53 10 110 c 0
+ 10 166 55 211 110 211 c 0
+ 165 211 210 166 210 110 c 0
+ 210 53 164 11 110 11 c 0
+EndSplineSet
+Substitution2: "Gukh med.H b-1" Gukh.Med.H.b
+Substitution2: "Gukh med.H invT-1" Gukh.Med.H.InvT
+Substitution2: "Gukh med.H aspir-1" Gukh.Med.H.Aspir
+Substitution2: "Gukh med.H wider-1" Gukh.Med.H.Wider
+Substitution2: "Gukh med.H normal-1" Gukh.Med.H.Norm
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Uml.Anu
+Encoding: 90413 90413 47
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 165
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-385 840 m 1
+ -273 728 l 1
+ -161 840 l 1
+ -90 840 l 1
+ -255 675 l 1
+ -291 675 l 1
+ -456 840 l 1
+ -385 840 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.R
+Encoding: 90414 90414 48
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: -257 165
+AnchorPoint: "Dot below mark" -273 -257 basemark 0
+AnchorPoint: "Dot below mark" -273 -27 mark 0
+AnchorPoint: "Dot below" -273 -27 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-385 -257 m 5
+ -456 -257 l 5
+ -291 -92 l 5
+ -255 -92 l 5
+ -90 -257 l 5
+ -161 -257 l 5
+ -273 -145 l 5
+ -385 -257 l 5
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Virama
+Encoding: 90415 90415 49
+Width: 0
+Flags: W
+HStem: -261 169
+VStem: -306 201
+AnchorPoint: "Virama" -273 -27 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-273 -92 m 1
+ -105 -217 l 1
+ -138 -261 l 1
+ -306 -136 l 1
+ -273 -92 l 1
+EndSplineSet
+Substitution2: "Gukh virama repl-1" Gukh.Virama.DoubleMed
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.0
+Encoding: 90416 90416 50
+Width: 560
+Flags: W
+HStem: -10 65<218.75 341.25> 595 65<218.75 341.25>
+VStem: 55 65<190.513 459.487> 440 65<190.513 459.487>
+AnchorPoint: "Dot below" 280 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+440 325 m 0
+ 440 175 367 55 280 55 c 0
+ 193 55 120 175 120 325 c 0
+ 120 475 193 595 280 595 c 0
+ 367 595 440 475 440 325 c 0
+505 325 m 0
+ 505 519 402 660 280 660 c 0
+ 158 660 55 519 55 325 c 0
+ 55 131 158 -10 280 -10 c 0
+ 402 -10 505 131 505 325 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.1
+Encoding: 90417 90417 51
+Width: 560
+Flags: W
+HStem: 0 21G<212 322.5> 710 100<265.385 347.982>
+VStem: 183 64<408.109 541.176> 257 100<718.838 801.162> 313 64<108.462 241.891>
+AnchorPoint: "Dot below" 281 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+313 169 m 0xe8
+ 313 274 183 345 183 478 c 0
+ 183 525 210 582 265 650 c 1
+ 348 650 l 1
+ 267 549 247 513 247 481 c 0
+ 247 376 377 305 377 172 c 0
+ 377 124 350 67 295 0 c 1
+ 212 0 l 1
+ 293 101 313 137 313 169 c 0xe8
+306 710 m 0
+ 279 710 257 731 257 760 c 0
+ 257 789 279 810 306 810 c 0
+ 333 810 357 789 357 760 c 0xf0
+ 357 731 333 710 306 710 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.2
+Encoding: 90418 90418 52
+Width: 560
+Flags: W
+HStem: -10 65<238.916 393.836> 595 65<238.916 393.553>
+VStem: 55 65<201.314 448.686>
+AnchorPoint: "Dot below" 316 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 -10 m 0
+ 172 -10 55 137 55 325 c 0
+ 55 513 172 660 316 660 c 0
+ 356 660 436 647 504 558 c 1
+ 452 519 l 1
+ 414 570 369 595 316 595 c 0
+ 207 595 120 475 120 325 c 0
+ 120 175 207 55 316 55 c 0
+ 369 55 414 80 452 131 c 1
+ 504 92 l 1
+ 482 63 420 -10 316 -10 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.3
+Encoding: 90419 90419 53
+Width: 560
+Flags: W
+HStem: -10 65<165.073 320.084> 595 65<165.61 320.084>
+VStem: 439 65<201.314 448.686>
+AnchorPoint: "Dot below" 243 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+243 660 m 0
+ 387 660 504 513 504 325 c 0
+ 504 137 387 -10 243 -10 c 0
+ 202 -10 122 3 55 92 c 1
+ 107 131 l 1
+ 145 80 190 55 243 55 c 0
+ 352 55 439 175 439 325 c 0
+ 439 475 352 595 243 595 c 0
+ 190 595 145 570 107 519 c 5
+ 55 558 l 1
+ 83 595 147 660 243 660 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.4
+Encoding: 90420 90420 54
+Width: 560
+Flags: W
+HStem: -10 65<206.17 353.83>
+VStem: 61 65<145.869 650> 434 65<145.869 650>
+AnchorPoint: "Dot below" 280 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+126 248 m 2
+ 126 117 202 55 280 55 c 0
+ 358 55 434 117 434 248 c 2
+ 434 650 l 1
+ 499 650 l 1
+ 499 248 l 2
+ 499 72 386 -10 280 -10 c 0
+ 174 -10 61 72 61 248 c 2
+ 61 650 l 1
+ 126 650 l 1
+ 126 248 l 2
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.5
+Encoding: 90421 90421 55
+Width: 560
+Flags: W
+HStem: 0 21G<61 126 434 499> 595 65<206.17 353.83>
+VStem: 61 65<0 504.131> 434 65<0 504.131>
+AnchorPoint: "Dot below" 280 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+434 402 m 6
+ 434 533 358 595 280 595 c 4
+ 202 595 126 533 126 402 c 6
+ 126 0 l 5
+ 61 0 l 5
+ 61 402 l 6
+ 61 578 174 660 280 660 c 4
+ 386 660 499 578 499 402 c 6
+ 499 0 l 5
+ 434 0 l 5
+ 434 402 l 6
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.6
+Encoding: 90422 90422 56
+Width: 560
+Flags: W
+HStem: -10 65<183.408 383.858> 595 65<173.737 376.592>
+VStem: 60 65<441.936 554.668> 436 65<96.0884 209.836>
+AnchorPoint: "Dot below" 276 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+284 595 m 0
+ 353 595 403 569 449 511 c 1
+ 500 551 l 1
+ 443 624 371 660 284 660 c 0
+ 129 660 60 583 60 503 c 0
+ 60 398 122 364 261 298 c 0
+ 391 237 436 215 436 152 c 0
+ 436 113 416 87 377 73 c 0
+ 344 61 310 55 276 55 c 0
+ 207 55 157 81 111 139 c 1
+ 60 99 l 1
+ 117 26 189 -10 276 -10 c 0
+ 432 -10 499 68 501 147 c 0
+ 501 194 487 231 459 257 c 0
+ 419 295 419 295 225 387 c 0
+ 160 420 125 447 125 498 c 0
+ 125 537 144 563 183 577 c 0
+ 216 589 250 595 284 595 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.7
+Encoding: 90423 90423 57
+Width: 560
+Flags: W
+HStem: -10 65<206.17 353.83> 550 100<238.438 321.562>
+VStem: 61 65<145.869 650> 230 100<558.438 641.562> 434 65<145.869 650>
+CounterMasks: 1 38
+AnchorPoint: "Dot below" 280 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+126 248 m 2
+ 126 117 202 55 280 55 c 0
+ 358 55 434 117 434 248 c 2
+ 434 650 l 1
+ 499 650 l 1
+ 499 248 l 2
+ 499 72 386 -10 280 -10 c 0
+ 174 -10 61 72 61 248 c 2
+ 61 650 l 1
+ 126 650 l 1
+ 126 248 l 2
+280 550 m 0
+ 252 550 230 572 230 600 c 0
+ 230 628 252 650 280 650 c 0
+ 308 650 330 628 330 600 c 0
+ 330 572 308 550 280 550 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.8
+Encoding: 90424 90424 58
+Width: 560
+Flags: W
+HStem: 0 100<238.438 321.562> 595 65<206.17 353.83>
+VStem: 61 65<0 504.131> 230 100<8.4375 91.5625> 434 65<0 504.131>
+CounterMasks: 1 38
+AnchorPoint: "Dot below" 280 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+434 402 m 2
+ 434 533 358 595 280 595 c 0
+ 202 595 126 533 126 402 c 2
+ 126 0 l 1
+ 61 0 l 1
+ 61 402 l 2
+ 61 578 174 660 280 660 c 0
+ 386 660 499 578 499 402 c 2
+ 499 0 l 1
+ 434 0 l 1
+ 434 402 l 2
+280 100 m 0
+ 308 100 330 78 330 50 c 0
+ 330 22 308 0 280 0 c 0
+ 252 0 230 22 230 50 c 0
+ 230 78 252 100 280 100 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.9
+Encoding: 90425 90425 59
+Width: 560
+Flags: W
+HStem: -10 65<138.573 204.077 305.18 371.427> 598 62<492.75 520.258>
+VStem: 55 65<71.1078 650> 222 65<72.5012 248> 390 65<71.1078 558.148>
+AnchorPoint: "Dot below" 256 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+339 55 m 0
+ 340 55 390 56 390 151 c 2
+ 390 444 l 2
+ 390 601 447 638 518 660 c 1
+ 538 598 l 1
+ 491 583 455 569 455 444 c 2
+ 455 151 l 2
+ 455 62 412 -10 339 -10 c 0
+ 306 -10 270 22 255 66 c 1
+ 253 62 224 -10 171 -10 c 0
+ 98 -10 55 62 55 151 c 2
+ 55 650 l 1
+ 120 650 l 1
+ 120 151 l 2
+ 120 56 170 55 171 55 c 0
+ 172 55 222 56 222 151 c 2
+ 222 248 l 1
+ 287 248 l 1
+ 287 151 l 2
+ 287 56 338 55 339 55 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1022
+Encoding: 1114112 -1 60
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1023
+Encoding: 1114113 -1 61
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1024
+Encoding: 1114114 -1 62
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1025
+Encoding: 1114115 -1 63
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1026
+Encoding: 1114116 -1 64
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1027
+Encoding: 1114117 -1 65
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1028
+Encoding: 1114118 -1 66
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1029
+Encoding: 1114119 -1 67
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1030
+Encoding: 1114120 -1 68
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1031
+Encoding: 1114121 -1 69
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1032
+Encoding: 1114122 -1 70
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: NameMe.1033
+Encoding: 1114123 -1 71
+Width: 1000
+LayerCount: 2
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.Aa.Anu
+Encoding: 1114124 -1 72
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+-385 940 m 1
+ -273 828 l 1
+ -161 940 l 1
+ -90 940 l 1
+ -255 775 l 1
+ -291 775 l 1
+ -456 940 l 1
+ -385 940 l 1
+EndSplineSet
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.Aa
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Aa Gukh.Uml.Anu
+LCarets2: 1 0
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.I.Anu
+Encoding: 1114125 -1 73
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 670 50<-349.283 -197.07> 790 45<-311.95 -234.05> 925 45<-311.95 -234.05>
+VStem: -363 45<841.05 918.95> -228 45<841.05 918.95>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-61 863 m 1
+ -94 790 l 2
+ -109 756 -158 670 -273 670 c 0
+ -309 670 -403 681 -452 790 c 2
+ -485 863 l 1
+ -439 883 l 1
+ -406 810 l 2
+ -399 795 -387 778 -370 759 c 0
+ -346 733 -314 720 -273 720 c 0
+ -232 720 -200 733 -176 759 c 0
+ -159 778 -146 795 -139 810 c 2
+ -107 883 l 1
+ -61 863 l 1
+-273 925 m 0
+ -299 925 -318 906 -318 880 c 0
+ -318 854 -299 835 -273 835 c 0
+ -247 835 -228 854 -228 880 c 0
+ -228 906 -247 925 -273 925 c 0
+-273 790 m 0
+ -323 790 -363 830 -363 880 c 0
+ -363 930 -323 970 -273 970 c 0
+ -223 970 -183 930 -183 880 c 0
+ -183 830 -223 790 -273 790 c 0
+EndSplineSet
+Ligature2: "Gukh CCMP-1" Gukh.Uml.I Gukh.Uml.Anu
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.I
+LCarets2: 1 0
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.Ii.Anu
+Encoding: 1114126 -1 74
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 670 50<-369.462 -176.538> 820 45<-422.95 -345.05 -199.941 -123.943> 955 45<-422.95 -345.05 -199.941 -123.943>
+VStem: -474 45<871.05 948.95> -339 45<871.05 948.95> -252 45<871.547 948.453> -117 45<871.268 948.732>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-162 820 m 0
+ -213 820 -252 861 -252 910 c 0
+ -252 959 -213 1000 -162 1000 c 0
+ -111 1000 -72 959 -72 910 c 0
+ -72 861 -111 820 -162 820 c 0
+-162 955 m 0
+ -186 955 -207 936 -207 910 c 0
+ -207 884 -186 865 -162 865 c 0
+ -137 865 -117 884 -117 910 c 0
+ -117 936 -137 955 -162 955 c 0
+-384 820 m 0
+ -434 820 -474 860 -474 910 c 0
+ -474 960 -434 1000 -384 1000 c 0
+ -334 1000 -294 960 -294 910 c 0
+ -294 860 -334 820 -384 820 c 0
+-384 955 m 0
+ -410 955 -429 936 -429 910 c 0
+ -429 884 -410 865 -384 865 c 0
+ -358 865 -339 884 -339 910 c 0
+ -339 936 -358 955 -384 955 c 0
+-273 720 m 0
+ -216 720 -163 740 -116 781 c 2
+ -37 850 l 1
+ -4 812 l 1
+ -84 743 l 2
+ -141 694 -204 670 -273 670 c 0
+ -342 670 -405 694 -462 743 c 2
+ -542 812 l 1
+ -509 850 l 1
+ -430 781 l 2
+ -383 740 -330 720 -273 720 c 0
+EndSplineSet
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.Ii
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Ii Gukh.Uml.Anu
+LCarets2: 1 0
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.U.Anu
+Encoding: 1114127 -1 75
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 50<-546 0>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+-546 775 m 1
+ -546 825 l 1
+ 0 825 l 1
+ 0 775 l 1
+ -546 775 l 1
+-385 1040 m 5
+ -273 928 l 5
+ -161 1040 l 5
+ -90 1040 l 5
+ -255 875 l 5
+ -291 875 l 5
+ -456 1040 l 5
+ -385 1040 l 5
+EndSplineSet
+Ligature2: "Gukh CCMP-1" Gukh.Uml.U Gukh.Uml.Anu
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.U
+LCarets2: 1 0
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.Uu.Anu
+Encoding: 1114128 -1 76
+Width: 0
+Flags: W
+HStem: 675 50<-546 0> 775 50<-546 -50>
+VStem: -50 50<825 965>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-385 1040 m 1
+ -273 928 l 1
+ -161 1040 l 1
+ -90 1040 l 1
+ -255 875 l 1
+ -291 875 l 1
+ -456 1040 l 5
+ -385 1040 l 1
+-546 775 m 1
+ -546 825 l 1
+ -50 825 l 1
+ -50 965 l 1
+ 0 965 l 1
+ 0 775 l 1
+ -546 775 l 1
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.Uu
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Uu Gukh.Uml.Anu
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.Oo.Anu
+Encoding: 1114129 -1 77
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 73<-361.75 -204.25> 775 50<-546 -373 -193 -50> 879 45<-321.95 -244.05> 1014 45<-321.95 -244.05>
+VStem: -373 45<930.05 1007.95> -238 45<930.05 1007.95> -50 50<825 965>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1x9f
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1x9f
+-546 775 m 1xbf
+ -546 825 l 1
+ -373 825 l 1xbf
+ -373 825 -431 855 -460 921 c 2
+ -493 994 l 1
+ -452 1012 l 1
+ -419 939 l 2
+ -412 923 -399 906 -382 887 c 0
+ -357 861 -324 848 -283 848 c 0xdf
+ -242 848 -209 861 -184 887 c 0
+ -167 906 -154 923 -147 939 c 2
+ -114 1012 l 1
+ -73 994 l 1
+ -106 921 l 2
+ -119 894 -149 848 -193 825 c 1
+ -50 825 l 1
+ -50 965 l 1
+ 0 965 l 1
+ 0 775 l 1
+ -546 775 l 1xbf
+-283 1014 m 0
+ -309 1014 -328 995 -328 969 c 0
+ -328 943 -309 924 -283 924 c 0
+ -257 924 -238 943 -238 969 c 0
+ -238 995 -257 1014 -283 1014 c 0
+-283 879 m 0
+ -333 879 -373 919 -373 969 c 0
+ -373 1019 -333 1059 -283 1059 c 0
+ -233 1059 -193 1019 -193 969 c 0
+ -193 919 -233 879 -283 879 c 0
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.Oo
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Oo Gukh.Uml.Anu
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.Au.Anu
+Encoding: 1114130 -1 78
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 70<-369.505 -176.495> 775 50<-546 -377 -169 0> 915 40<-403.632 -344.368 -201.702 -142.298> 1019 40<-403.632 -344.368 -201.702 -142.298>
+VStem: -446 40<957.368 1016.63> -342 40<957.368 1016.63> -244 40<957.286 1016.71> -140 40<957.286 1016.71>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-34 976 m 2xdf80
+ -34 976 -11 950 -7 945 c 1
+ -87 877 l 2
+ -113 854 -140 837 -169 825 c 1
+ 0 825 l 1
+ 0 775 l 1
+ -546 775 l 1
+ -546 825 l 1
+ -377 825 l 1xbf80
+ -406 837 -433 854 -459 877 c 2
+ -538 945 l 1
+ -537 947 -512 976 -512 976 c 2
+ -433 907 l 2
+ -385 866 -332 845 -273 845 c 0
+ -214 845 -161 866 -113 907 c 2
+ -34 976 l 2xdf80
+-172 915 m 0
+ -212 915 -244 947 -244 987 c 0
+ -244 1027 -212 1059 -172 1059 c 0
+ -132 1059 -100 1027 -100 987 c 0
+ -100 947 -132 915 -172 915 c 0
+-172 1019 m 0
+ -191 1019 -204 1004 -204 987 c 0
+ -204 970 -191 955 -172 955 c 0
+ -153 955 -140 970 -140 987 c 0
+ -140 1004 -153 1019 -172 1019 c 0
+-374 915 m 0
+ -414 915 -446 947 -446 987 c 0
+ -446 1027 -414 1059 -374 1059 c 0
+ -334 1059 -302 1027 -302 987 c 0
+ -302 947 -334 915 -374 915 c 0
+-374 1019 m 0
+ -392 1019 -406 1005 -406 987 c 0
+ -406 969 -392 955 -374 955 c 0
+ -356 955 -342 969 -342 987 c 0
+ -342 1005 -356 1019 -374 1019 c 0
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.Au
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Au Gukh.Uml.Anu
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.E.Anu
+Encoding: 1114131 -1 79
+Width: 0
+Flags: W
+HStem: 675 90<-336.722 -209.278> 675 50<-546 -337 -209 0> 835 45<-311.95 -234.05> 970 45<-311.95 -234.05>
+VStem: -363 45<886.05 963.95> -228 45<886.05 963.95>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1x7c
+ -546 675 l 1
+ -546 725 l 1
+ -337 725 l 1x7c
+ -354 731 -417 757 -452 835 c 2
+ -485 908 l 1
+ -439 928 l 1
+ -406 855 l 2
+ -399 840 -387 823 -370 804 c 0
+ -346 778 -314 765 -273 765 c 0xbc
+ -232 765 -200 778 -176 804 c 0
+ -159 823 -146 840 -139 855 c 2
+ -107 928 l 1
+ -61 908 l 1
+ -94 835 l 2
+ -111 797 -148 746 -209 725 c 1
+ 0 725 l 1
+ 0 675 l 1x7c
+-273 835 m 0
+ -323 835 -363 875 -363 925 c 0
+ -363 975 -323 1015 -273 1015 c 0
+ -223 1015 -183 975 -183 925 c 0
+ -183 875 -223 835 -273 835 c 0
+-273 970 m 0
+ -299 970 -318 951 -318 925 c 0
+ -318 899 -299 880 -273 880 c 0
+ -247 880 -228 899 -228 925 c 0
+ -228 951 -247 970 -273 970 c 0
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.E
+Ligature2: "Gukh CCMP-1" Gukh.Uml.E Gukh.Uml.Anu
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.Ee.Anu
+Encoding: 1114132 -1 80
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 90<-346.722 -219.278> 675 50<-546 -347 -219 -50> 835 45<-321.95 -244.05> 970 45<-321.95 -244.05>
+VStem: -373 45<886.05 963.95> -238 45<886.05 963.95> -50 50<725 865>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1x7e
+ -546 675 l 1
+ -546 725 l 1
+ -347 725 l 1x7e
+ -364 731 -427 757 -462 835 c 2
+ -495 908 l 1
+ -449 928 l 1
+ -416 855 l 2
+ -409 840 -397 823 -380 804 c 0
+ -356 778 -324 765 -283 765 c 0xbe
+ -242 765 -210 778 -186 804 c 0
+ -169 823 -156 840 -149 855 c 2
+ -117 928 l 1
+ -71 908 l 1
+ -104 835 l 2
+ -121 797 -158 746 -219 725 c 1
+ -50 725 l 1
+ -50 865 l 1
+ 0 865 l 1
+ 0 675 l 1x7e
+-283 835 m 0
+ -333 835 -373 875 -373 925 c 0
+ -373 975 -333 1015 -283 1015 c 0
+ -233 1015 -193 975 -193 925 c 0
+ -193 875 -233 835 -283 835 c 0
+-283 970 m 0
+ -309 970 -328 951 -328 925 c 0
+ -328 899 -309 880 -283 880 c 0
+ -257 880 -238 899 -238 925 c 0
+ -238 951 -257 970 -283 970 c 0
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Ee Gukh.Uml.Anu
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.Ee
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.Ai.Anu
+Encoding: 1114133 -1 81
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 90<-345.348 -200.652> 675 50<-546 -347 -199 0> 865 45<-422.95 -345.05 -199.941 -123.943> 1000 45<-422.95 -345.05 -199.941 -123.943>
+VStem: -474 45<916.05 993.95> -339 45<916.05 993.95> -252 45<916.547 993.453> -117 45<916.268 993.732>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 675 m 1x7f
+ -546 675 l 1
+ -546 725 l 1
+ -347 725 l 1x7f
+ -388 736 -426 757 -462 788 c 2
+ -542 857 l 1
+ -509 895 l 1
+ -430 826 l 2
+ -383 785 -330 765 -273 765 c 0xbf
+ -216 765 -163 785 -116 826 c 2
+ -37 895 l 1
+ -4 857 l 1
+ -84 788 l 2
+ -120 757 -158 736 -199 725 c 1
+ 0 725 l 1
+ 0 675 l 1x7f
+-384 1000 m 0
+ -410 1000 -429 981 -429 955 c 0
+ -429 929 -410 910 -384 910 c 0
+ -358 910 -339 929 -339 955 c 0
+ -339 981 -358 1000 -384 1000 c 0
+-384 865 m 0
+ -434 865 -474 905 -474 955 c 0
+ -474 1005 -434 1045 -384 1045 c 0
+ -334 1045 -294 1005 -294 955 c 0
+ -294 905 -334 865 -384 865 c 0
+-162 1000 m 0
+ -186 1000 -207 981 -207 955 c 0
+ -207 929 -186 910 -162 910 c 0
+ -137 910 -117 929 -117 955 c 0
+ -117 981 -137 1000 -162 1000 c 0
+-162 865 m 0
+ -213 865 -252 906 -252 955 c 0
+ -252 1004 -213 1045 -162 1045 c 0
+ -111 1045 -72 1004 -72 955 c 0
+ -72 906 -111 865 -162 865 c 0
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.Ai
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Ai Gukh.Uml.Anu
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Lig.O.Anu
+Encoding: 1114134 -1 82
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 675 50<-546 0> 775 73<-351.75 -194.25> 775 50<-546 -363 -183 0> 879 45<-311.95 -234.05> 1014 45<-311.95 -234.05>
+VStem: -363 45<930.05 1007.95> -228 45<930.05 1007.95>
+AnchorPoint: "Matra 625" -273 625 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-273 879 m 4x9e
+ -323 879 -363 919 -363 969 c 4
+ -363 1019 -323 1059 -273 1059 c 4
+ -223 1059 -183 1019 -183 969 c 4
+ -183 919 -223 879 -273 879 c 4x9e
+-273 1014 m 4
+ -299 1014 -318 995 -318 969 c 4
+ -318 943 -299 924 -273 924 c 4
+ -247 924 -228 943 -228 969 c 4
+ -228 995 -247 1014 -273 1014 c 4
+-546 775 m 5xbe
+ -546 825 l 5
+ -363 825 l 5xbe
+ -363 825 -421 855 -450 921 c 6
+ -483 994 l 5
+ -442 1012 l 5
+ -409 939 l 6
+ -402 924 -390 906 -372 887 c 4
+ -347 861 -314 848 -273 848 c 4xde
+ -232 848 -199 861 -174 887 c 4
+ -156 906 -144 924 -137 939 c 6
+ -104 1012 l 5
+ -63 994 l 5
+ -96 921 l 6
+ -107 895 -139 848 -183 825 c 5
+ 0 825 l 5
+ 0 775 l 5
+ -546 775 l 5xbe
+0 675 m 1
+ -546 675 l 1
+ -546 725 l 1
+ 0 725 l 1
+ 0 675 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Gukh CCMP-1" Gukh.Uml.Anu Gukh.Uml.O
+Ligature2: "Gukh CCMP-1" Gukh.Uml.O Gukh.Uml.Anu
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.K.Y
+Encoding: 1114135 -1 83
+Width: 762
+Flags: W
+HStem: -133 65<125 289.855> -10 65<291.933 393.129> 0 21G<637 702> 346 65<335.452 432 497 572.376> 560 65<-10 60 125 155 135 432 497 772>
+VStem: 60 65<-68 560> 193 65<94.3564 275.218> 432 65<100.422 346 411 560> 637 65<0 274.051>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 463 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 3 90369 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.K Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Kh.Y
+Encoding: 1114136 -1 84
+Width: 907
+Flags: W
+HStem: -133 65<125 289.855> -10 65<291.933 393.129> 0 21G<637 702 782 847> 346 65<335.452 432 497 570.957> 560 65<-10 60 125 155 135 432 497 782 847 917>
+VStem: 60 65<-68 560> 193 65<94.3564 275.218> 432 65<100.422 346 411 560> 637 65<0 272.076> 782 65<0 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 487 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 4 90370 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Kh Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.G.Y
+Encoding: 1114137 -1 85
+Width: 813
+Flags: W
+HStem: -63 65<125 289.855> 62 65<291.233 424.885> 239 65<283.939 425.602> 417 65<300.945 477.985> 560 65<-10 60 125 155 135 224 289 688 753 823>
+VStem: 60 65<2 560> 206 65<146.577 224.236> 224 65<462 560> 531 65<232.934 367.373> 688 65<66 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 468 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 5 90371 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.G Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Gh.Y
+Encoding: 1114138 -1 86
+Width: 958
+Flags: W
+HStem: -63 65<125 289.855> 62 65<291.233 424.71> 239 65<283.939 425.602> 417 65<299.59 477.985> 560 65<-10 60 125 155 135 224 289 688 753 833 898 968>
+VStem: 60 65<2 560> 206 65<146.577 224.236> 224 65<462 560> 531 65<232.934 367.373> 688 65<66 560> 833 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 506 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 6 90372 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Gh Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ng.Y
+Encoding: 1114139 -1 87
+Width: 797
+Flags: W
+HStem: -63 65<125 289.855> 62 65<291.156 423.974> 237 65<283.773 422.552> 417 65<299.59 477.124> 560 65<-10 60 125 155 135 224 289 807>
+VStem: 60 65<2 560> 206 65<147.548 221.369> 224 65<462 560> 531 65<227.81 366.828>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 451 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 7 90373 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Ng Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.C.Y
+Encoding: 1114140 -1 88
+Width: 803
+Flags: W
+HStem: -63 65<125 289.855> 62 65<281.28 412.273> 239 65<274.328 415.178> 429 66<270.781 458.695> 560 65<-10 60 125 155 135 678 743 813>
+VStem: 60 65<2 560> 196 65<146.989 223.039> 521 65<236.356 371.889> 678 65<66 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 447 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 8 90374 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.C Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ch.Y
+Encoding: 1114141 -1 89
+Width: 948
+Flags: W
+HStem: -63 65<125 289.855> 62 65<281.28 412.273> 239 65<274.328 415.178> 429 66<270.781 458.695> 560 65<-10 60 125 155 135 678 743 823 888 958>
+VStem: 60 65<2 560> 196 65<146.989 223.039> 521 65<236.356 371.889> 678 65<66 560> 823 65<-41 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 505 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 9 90375 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Ch Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.J.Y
+Encoding: 1114142 -1 90
+Width: 744
+Flags: W
+HStem: -133 65<125 289.855> 10 65<303.554 456.427> 162 65<284.722 421.668> 300 65<259 332.801> 499 126<287.197 362.54> 560 65<-10 60 125 155 135 286 363 617 682 754>
+VStem: 60 65<-68 560> 216 65<96.9649 154.46> 396 65<410.746 486.999> 498 65<169.63 251.571> 619 65<56 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 418 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 10 90376 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.J Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Jh.Y
+Encoding: 1114143 -1 91
+Width: 889
+Flags: W
+HStem: -133 65<125 289.855> 10 65<303.554 456.427> 162 65<284.722 421.668> 300 65<259 332.801> 499 126<287.197 362.54> 560 65<-10 60 125 155 135 286 363 617 682 764 829 899>
+VStem: 60 65<-68 560> 216 65<96.9649 154.46> 396 65<410.746 486.999> 498 65<169.63 251.571> 619 65<56 560> 764 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 472 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 11 90377 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Jh Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.H.Y
+Encoding: 1114144 -1 92
+Width: 853
+Flags: W
+HStem: 502 123<299.222 397.365 591.55 680.819> 560 65<-10 60 125 155 135 299 398 590 682 863>
+VStem: 60 65<142.803 560> 196 65<230.023 467.39> 464 65<244 413.794> 690 65<31.7722 182.068> 738 65<206.859 441.516>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 496 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 13 90378 N 1 0 0 1 145 0 2
+Refer: 151 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.H Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Tt.Y
+Encoding: 1114145 -1 93
+Width: 754
+Flags: W
+HStem: -63 65<125 289.855> 68 66<316.093 512.983> 101 65<486.546 610.161> 393 66<325.306 531.991> 560 65<-10 60 125 155 135 533 598 764>
+VStem: 60 65<2 560> 195 65<192.352 335.355> 533 65<446 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 458 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 14 90379 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Tt Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Tth.Y
+Encoding: 1114146 -1 94
+Width: 903
+Flags: W
+HStem: -63 65<125 289.855> 68 66<316.093 512.983> 101 65<486.546 610.161> 393 66<325.306 531.991> 560 65<-10 60 125 155 135 533 598 778 843 913>
+VStem: 60 65<2 560> 195 65<192.352 335.355> 533 65<446 560> 778 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 517 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 15 90380 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Tth Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Dd.Y
+Encoding: 1114147 -1 95
+Width: 837
+Flags: W
+HStem: -63 65<125 289.855> 68 66<315.255 516.445> 101 64<484.118 629.755> 393 66<324.773 531.171> 560 65<-10 60 125 155 135 533 598 712 777 847>
+VStem: 60 65<2 560> 195 65<190.839 335.427> 533 65<446 560> 712 65<84 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 483 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 16 90381 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Dd Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ddh.Y
+Encoding: 1114148 -1 96
+Width: 983
+Flags: W
+HStem: -63 65<125 289.855> 68 66<315.255 516.445> 101 64<484.118 629.755> 393 66<324.773 531.171> 560 65<-10 60 125 155 135 533 598 712 777 858 923 993>
+VStem: 60 65<2 560> 195 65<190.839 335.427> 533 65<446 560> 712 65<84 560> 858 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 517 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 17 90382 N 1 0 0 1 145 0 2
+Refer: 143 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Ddh Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.V.Y
+Encoding: 1114149 -1 97
+Width: 782
+Flags: W
+HStem: 337 58<325.007 482.632> 403 80<654.181 725.677> 502 123<337.637 449.91> 560 65<-10 60 125 155 135 337 452 792>
+VStem: 60 65<142.803 560> 195 65<325.891 402.972> 507 65<419.126 476.565> 650 80<407.885 478.115> 657 65<86 341>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 463 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 18 90383 N 1 0 0 1 145 0 2
+Refer: 151 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.V Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.T.Y
+Encoding: 1114150 -1 98
+Width: 742
+Flags: W
+HStem: -133 65<125 289.855> 0 21G<180 267.357 611.857 707> 560 65<-10 60 125 155 135 501 576 752>
+VStem: 60 65<-68 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 449 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 19 90384 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.T Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Th.Y
+Encoding: 1114151 -1 99
+Width: 897
+Flags: W
+HStem: -133 65<125 289.855> 0 21G<180 267.357 611.857 707 772 837> 560 65<-10 60 125 155 135 501 576 772 837 907>
+VStem: 60 65<-68 560> 772 65<0 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 508 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 20 90385 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Th Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.N.Y
+Encoding: 1114152 -1 100
+Width: 798
+Flags: W
+HStem: -133 65<125 289.855> -10 67<366.614 439 504 578.034> 560 65<-10 60 125 155 135 439 504 808>
+VStem: 60 65<-68 560> 439 65<57 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 472 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 24 90388 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.N Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.P.Y
+Encoding: 1114153 -1 101
+Width: 685
+Flags: W
+HStem: -133 65<125 289.855> -10 66<342.837 497.824> 355 65<341.22 496.363> 560 65<-10 60 125 155 135 205 270 695>
+VStem: 60 65<-68 560> 205 65<127.706 284.021 339 560> 570 65<127.09 284.634>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 419 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 25 90389 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.P Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ph.Y
+Encoding: 1114154 -1 102
+Width: 830
+Flags: W
+HStem: -133 65<125 289.855> -10 66<342.837 497.824> 0 21G<705 770> 355 65<341.22 496.363> 560 65<-10 60 125 155 135 205 270 705 770 840>
+VStem: 60 65<-68 560> 205 65<127.706 284.021 339 560> 570 65<127.09 284.634> 705 65<0 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 471 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 26 90390 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Ph Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.B.Y
+Encoding: 1114155 -1 103
+Width: 782
+Flags: W
+HStem: 337 58<324.978 482.586> 502 123<337.637 449.91> 560 65<-10 60 125 155 135 337 452 657 722 792>
+VStem: 60 65<142.803 560> 195 65<325.658 402.972> 507 65<419.126 476.565> 657 65<86 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 463 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 21 90391 N 1 0 0 1 145 0 2
+Refer: 151 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.B Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Bh.Y
+Encoding: 1114156 -1 104
+Width: 927
+Flags: W
+HStem: 337 58<325.007 482.632> 502 123<337.637 449.91> 560 65<-10 60 125 155 135 337 452 657 722 802 867 937>
+VStem: 60 65<142.803 560> 195 65<325.891 402.972> 507 65<419.126 476.565> 657 65<86 560> 802 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 521 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 27 90392 N 1 0 0 1 145 0 2
+Refer: 151 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Bh Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.M.Y
+Encoding: 1114157 -1 105
+Width: 739
+Flags: W
+HStem: -133 65<125 289.855> 0 21G<180 278.75> 560 65<-10 60 125 155 135 180 263 622 704 749>
+VStem: 60 65<-68 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 428 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 28 90393 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.M Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.D.Y
+Encoding: 1114158 -1 106
+Width: 764
+Flags: W
+HStem: -133 65<125 289.855> -10 65<270.368 440.293> 136 65<264.675 399.606> 246 64<291.507 464.92> 419 64<271.365 477.689> 560 65<-10 60 125 155 135 480 545 639 704 774>
+VStem: 60 65<-68 560> 195 65<68.1487 130.154 337.044 404.389> 480 65<474 560> 508 65<134.223 208.59> 639 65<47 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 449 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 22 90386 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.D Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Dh.Y
+Encoding: 1114159 -1 107
+Width: 909
+Flags: W
+HStem: -133 65<125 289.855> -10 65<270.725 440.293> 136 65<264.675 399.606> 246 64<291.507 464.92> 419 64<271.365 477.689> 560 65<-10 60 125 155 135 480 545 639 704 784 849 919>
+VStem: 60 65<-68 560> 195 65<68.1487 130.154 337.044 404.389> 480 65<474 560> 508 65<134.223 208.59> 639 65<47 560> 784 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 496 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 23 90387 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Dh Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.K.V
+Encoding: 1114160 -1 108
+Width: 762
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> -10 65<291.933 393.129> 0 21G<637 702> 346 65<335.452 432 497 572.376> 560 65<-10 60 125 155 135 432 497 772>
+VStem: 60 65<-63 560> 193 65<94.3564 275.218> 432 65<100.422 346 411 560> 492 65<-198.932 -164.73> 637 65<0 274.051>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 463 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 3 90369 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.K Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Kh.V
+Encoding: 1114161 -1 109
+Width: 907
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> -10 65<291.933 393.129> 0 21G<637 702 782 847> 346 65<335.452 432 497 570.957> 560 65<-10 60 125 155 135 432 497 782 847 917>
+VStem: 60 65<-63 560> 193 65<94.3564 275.218> 432 65<100.422 346 411 560> 492 65<-198.932 -164.73> 637 65<0 272.076> 782 65<0 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 487 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 4 90370 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Kh Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.G.V
+Encoding: 1114162 -1 110
+Width: 813
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 62 65<291.233 424.885> 239 65<283.939 425.602> 417 65<300.945 477.985> 560 65<-10 60 125 155 135 224 289 688 753 823>
+VStem: 60 65<7 560> 206 65<146.577 224.236> 224 65<462 560> 492 65<-128.932 -94.7297> 531 65<232.934 367.373> 688 65<66 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 468 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 5 90371 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.G Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Gh.V
+Encoding: 1114163 -1 111
+Width: 958
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 62 65<291.233 424.71> 239 65<283.939 425.602> 417 65<299.59 477.985> 560 65<-10 60 125 155 135 224 289 688 753 833 898 968>
+VStem: 60 65<7 560> 206 65<146.577 224.236> 224 65<462 560> 492 65<-128.932 -94.7297> 531 65<232.934 367.373> 688 65<66 560> 833 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 506 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 6 90372 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Gh Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ng.V
+Encoding: 1114164 -1 112
+Width: 797
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 62 65<291.156 423.974> 237 65<283.773 422.552> 417 65<299.59 477.124> 560 65<-10 60 125 155 135 224 289 807>
+VStem: 60 65<7 560> 206 65<147.548 221.369> 224 65<462 560> 492 65<-128.932 -94.7297> 531 65<227.81 366.828>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 451 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 7 90373 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Ng Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.C.V
+Encoding: 1114165 -1 113
+Width: 803
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 62 65<281.28 412.273> 239 65<274.328 415.178> 429 66<270.781 458.695> 560 65<-10 60 125 155 135 678 743 813>
+VStem: 60 65<7 560> 196 65<146.989 223.039> 492 65<-128.932 -94.7297> 521 65<236.356 371.889> 678 65<66 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 447 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 8 90374 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.C Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ch.V
+Encoding: 1114166 -1 114
+Width: 948
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 62 65<281.28 412.273> 239 65<274.328 415.178> 429 66<270.781 458.695> 560 65<-10 60 125 155 135 678 743 823 888 958>
+VStem: 60 65<7 560> 196 65<146.989 223.039> 492 65<-128.932 -94.7297> 521 65<236.356 371.889> 678 65<66 560> 823 65<-41 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 505 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 9 90375 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Ch Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.J.V
+Encoding: 1114167 -1 115
+Width: 744
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 10 65<303.554 456.427> 162 65<284.722 421.668> 300 65<259 332.801> 499 126<287.197 362.54> 560 65<-10 60 125 155 135 286 363 617 682 754>
+VStem: 60 65<-63 560> 216 65<96.9649 154.46> 396 65<410.746 486.999> 492 65<-198.932 -164.73> 498 65<169.63 251.571> 619 65<56 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 418 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 10 90376 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.J Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Jh.V
+Encoding: 1114168 -1 116
+Width: 889
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 10 65<303.554 456.427> 162 65<284.722 421.668> 300 65<259 332.801> 499 126<287.197 362.54> 560 65<-10 60 125 155 135 286 363 617 682 764 829 899>
+VStem: 60 65<-63 560> 216 65<96.9649 154.46> 396 65<410.746 486.999> 492 65<-198.932 -164.73> 498 65<169.63 251.571> 619 65<56 560> 764 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 472 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 11 90377 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Jh Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.H.V
+Encoding: 1114169 -1 117
+Width: 853
+Flags: W
+HStem: -204 64<435.621 491.517> 502 123<299.222 397.365 591.55 680.819> 560 65<-10 60 125 155 135 299 398 590 682 863>
+VStem: 60 65<140.524 560> 196 65<230.023 467.39> 464 65<244 413.794> 492 67<-139.993 -98.4673> 690 65<31.7722 182.068> 738 65<206.859 441.516>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 496 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 13 90378 N 1 0 0 1 145 0 2
+Refer: 152 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.H Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Tt.V
+Encoding: 1114170 -1 118
+Width: 754
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 68 66<316.093 512.983> 101 65<486.546 610.161> 393 66<325.306 531.991> 560 65<-10 60 125 155 135 533 598 764>
+VStem: 60 65<7 560> 195 65<192.352 335.355> 492 65<-128.932 -94.7297> 533 65<446 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 458 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 14 90379 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Tt Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Tth.V
+Encoding: 1114171 -1 119
+Width: 903
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 68 66<316.093 512.983> 101 65<486.546 610.161> 393 66<325.306 531.991> 560 65<-10 60 125 155 135 533 598 778 843 913>
+VStem: 60 65<7 560> 195 65<192.352 335.355> 492 65<-128.932 -94.7297> 533 65<446 560> 778 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 517 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 15 90380 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Tth Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Dd.V
+Encoding: 1114172 -1 120
+Width: 837
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 68 66<315.255 516.445> 101 64<484.118 629.755> 393 66<324.773 531.171> 560 65<-10 60 125 155 135 533 598 712 777 847>
+VStem: 60 65<7 560> 195 65<190.839 335.427> 492 65<-128.932 -94.7297> 533 65<446 560> 712 65<84 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 483 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 16 90381 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Dd Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ddh.V
+Encoding: 1114173 -1 121
+Width: 983
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 68 66<315.255 516.445> 101 64<484.118 629.755> 393 66<324.773 531.171> 560 65<-10 60 125 155 135 533 598 712 777 858 923 993>
+VStem: 60 65<7 560> 195 65<190.839 335.427> 492 65<-128.932 -94.7297> 533 65<446 560> 712 65<84 560> 858 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 517 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 17 90382 N 1 0 0 1 145 0 2
+Refer: 144 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Ddh Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.V.V
+Encoding: 1114174 -1 122
+Width: 782
+Flags: W
+HStem: -204 64<435.621 491.517> 337 58<325.007 482.632> 403 80<654.181 725.677> 502 123<337.637 449.91> 560 65<-10 60 125 155 135 337 452 792>
+VStem: 60 65<140.524 560> 195 65<325.891 402.972> 492 67<-139.993 -98.4673> 507 65<419.126 476.565> 650 80<407.885 478.115> 657 65<86 341>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 463 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 18 90383 N 1 0 0 1 145 0 2
+Refer: 152 -1 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.V Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.T.V
+Encoding: 1114175 -1 123
+Width: 742
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 0 21G<180 267.357 611.857 707> 560 65<-10 60 125 155 135 501 576 752>
+VStem: 60 65<-63 560> 492 65<-198.932 -164.73>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 449 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 19 90384 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.T Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Th.V
+Encoding: 1114176 -1 124
+Width: 897
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 0 21G<180 267.357 611.857 707 772 837> 560 65<-10 60 125 155 135 501 576 772 837 907>
+VStem: 60 65<-63 560> 492 65<-198.932 -164.73> 772 65<0 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 508 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 20 90385 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Th Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.D.V
+Encoding: 1114177 -1 125
+Width: 764
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> -10 65<270.368 440.293> 136 65<264.675 399.606> 246 64<291.507 464.92> 419 64<271.365 477.689> 560 65<-10 60 125 155 135 480 545 639 704 774>
+VStem: 60 65<-63 560> 195 65<68.1487 130.154 337.044 404.389> 480 65<474 560> 492 65<-198.932 -164.73> 508 65<134.223 208.59> 639 65<47 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 449 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 22 90386 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.D Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Dh.V
+Encoding: 1114178 -1 126
+Width: 909
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> -10 65<270.725 440.293> 136 65<264.675 399.606> 246 64<291.507 464.92> 419 64<271.365 477.689> 560 65<-10 60 125 155 135 480 545 639 704 784 849 919>
+VStem: 60 65<-63 560> 195 65<68.1487 130.154 337.044 404.389> 480 65<474 560> 492 65<-198.932 -164.73> 508 65<134.223 208.59> 639 65<47 560> 784 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 496 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 23 90387 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.Dh Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.N.V
+Encoding: 1114179 -1 127
+Width: 798
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> -10 67<366.614 439 504 578.034> 560 65<-10 60 125 155 135 439 504 808>
+VStem: 60 65<-63 560> 439 65<57 560> 492 65<-198.932 -164.73>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 472 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 24 90388 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.N Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.P.V
+Encoding: 1114180 -1 128
+Width: 685
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> -10 66<342.837 497.824> 355 65<341.22 496.363> 560 65<-10 60 125 155 135 205 270 695>
+VStem: 60 65<-63 560> 205 65<127.706 284.021 339 560> 492 65<-198.932 -164.73> 570 65<127.09 284.634>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 419 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 25 90389 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.P Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Ph.V
+Encoding: 1114181 -1 129
+Width: 830
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> -10 66<342.837 497.824> 0 21G<705 770> 355 65<341.22 496.363> 560 65<-10 60 125 155 135 205 270 705 770 840>
+VStem: 60 65<-63 560> 205 65<127.706 284.021 339 560> 492 65<-198.932 -164.73> 570 65<127.09 284.634> 705 65<0 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 471 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 26 90390 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Ph Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.B.V
+Encoding: 1114182 -1 130
+Width: 782
+Flags: W
+HStem: -204 64<435.621 491.517> 337 58<324.978 482.586> 502 123<337.637 449.91> 560 65<-10 60 125 155 135 337 452 657 722 792>
+VStem: 60 65<140.524 560> 195 65<325.658 402.972> 492 67<-139.993 -98.4673> 507 65<419.126 476.565> 657 65<86 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 463 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 21 90391 N 1 0 0 1 145 0 2
+Refer: 152 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.B Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Bh.V
+Encoding: 1114183 -1 131
+Width: 927
+Flags: W
+HStem: -204 64<435.621 491.517> 337 58<325.007 482.632> 502 123<337.637 449.91> 560 65<-10 60 125 155 135 337 452 657 722 802 867 937>
+VStem: 60 65<140.524 560> 195 65<325.891 402.972> 492 67<-139.993 -98.4673> 507 65<419.126 476.565> 657 65<86 560> 802 65<-42 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 521 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 27 90392 N 1 0 0 1 145 0 2
+Refer: 152 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Bh Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.M.V
+Encoding: 1114184 -1 132
+Width: 739
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 0 21G<180 278.75> 560 65<-10 60 125 155 135 180 263 622 704 749>
+VStem: 60 65<-63 560> 492 65<-198.932 -164.73>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 428 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 28 90393 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.M Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Y.Y
+Encoding: 1114185 -1 133
+Width: 728
+Flags: W
+HStem: 403 80<600.181 671.677> 560 65<-10 60 125 155 135 205 270 738>
+VStem: 60 65<142.803 560> 205 65<313.633 560> 596 80<407.885 478.115> 603 65<-42 -18 117 341>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 446 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 29 90394 N 1 0 0 1 145 0 2
+Refer: 151 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Y Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Y.V
+Encoding: 1114186 -1 134
+Width: 728
+Flags: W
+HStem: -204 64<435.621 491.517> 403 80<600.181 671.677> 560 65<-10 60 125 155 135 205 270 738>
+VStem: 60 65<140.524 560> 205 65<313.633 560> 492 67<-139.993 -98.4673> 596 80<407.885 478.115> 603 65<-42 -18 117 341>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 446 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 29 90394 N 1 0 0 1 145 0 2
+Refer: 152 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.Y Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.R.Y
+Encoding: 1114187 -1 135
+Width: 757
+Flags: W
+HStem: 560 65<-10 60 125 155 135 301 366 767>
+VStem: 60 65<142.803 560> 301 65<341.187 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 450 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 30 90395 N 1 0 0 1 145 0 2
+Refer: 151 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.R Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.R.V
+Encoding: 1114188 -1 136
+Width: 757
+Flags: W
+HStem: -204 64<435.621 491.517> 560 65<-10 60 125 155 135 301 366 767>
+VStem: 60 65<140.524 560> 301 65<341.187 560> 492 67<-139.993 -98.4673>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 450 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 30 90395 N 1 0 0 1 145 0 2
+Refer: 152 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.R Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.L.Y
+Encoding: 1114189 -1 137
+Width: 858
+Flags: W
+HStem: -133 65<125 289.855> 0 65<307.149 388.447 551.753 650.501> 390 65<664.37 716.046> 560 65<-10 60 125 155 135 205 270 868>
+VStem: 60 65<-68 560> 205 65<113.554 560> 424 65<158.379 354> 577 66<177.138 369.171> 735 65<160.649 372.726>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 473 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 31 90396 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.L Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.L.V
+Encoding: 1114190 -1 138
+Width: 858
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 0 65<307.149 388.447 551.753 650.501> 390 65<664.37 716.046> 560 65<-10 60 125 155 135 205 270 868>
+VStem: 60 65<-63 560> 205 65<113.554 560> 424 65<158.379 354> 492 65<-198.932 -164.73> 577 66<177.138 369.171> 735 65<160.649 372.726>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 473 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 31 90396 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+Ligature2: "Gukh LIGM-1" Gukh.L Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.S.Y
+Encoding: 1114191 -1 139
+Width: 738
+Flags: W
+HStem: -133 65<125 289.855> 10 65<301.642 456.657> 159 64<285.647 431.369> 300 65<259 329.841> 499 126<286.434 363.502> 560 65<-10 60 125 155 135 285 365 748>
+VStem: 60 65<-68 560> 216 65<96.8242 150.218> 396 65<411.073 485.525> 498 65<173.309 249.616>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 418 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 32 90397 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.S Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.S.V
+Encoding: 1114192 -1 140
+Width: 738
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 10 65<301.642 456.657> 159 64<285.647 431.369> 300 65<259 329.841> 499 126<286.434 363.502> 560 65<-10 60 125 155 135 285 365 748>
+VStem: 60 65<-63 560> 216 65<96.8242 150.218> 396 65<411.073 485.525> 492 65<-198.932 -164.73> 498 65<173.309 249.616>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 418 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 32 90397 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Gukh.S Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Dotc.Y
+Encoding: 1114193 -1 141
+Width: 739
+Flags: W
+HStem: -133 65<125 289.855> 42 52<416.418 467.539> 60 52<332.418 383.539 500.418 551.539> 107 52<258.418 309.539 574.418 625.539> 181 52<211.418 262.539 621.418 672.539> 265 52<193.418 244.539 639.418 690.539> 349 52<211.418 262.539 621.418 672.539> 423 52<258.418 309.539 574.418 625.539> 470 52<332.418 383.539 500.418 551.539> 488 52<416.418 467.539> 560 65<-10 60 125 155>
+VStem: 60 65<-68 560> 193 52<265.418 316.539> 211 52<181.418 232.539 349.418 400.539> 258 52<107.418 158.539 423.418 474.539> 332 52<60.4176 111.539 470.418 521.539> 416 52<42.4176 93.5391 488.418 539.539> 500 52<60.4176 111.539 470.418 521.539> 574 52<107.418 158.539 423.418 474.539> 621 52<181.418 232.539 349.418 400.539> 639 52<265.418 316.539>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 442 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 0 9676 N 1 0 0 1 145 0 2
+Refer: 44 90410 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Shape.Dotc Gukh.Med.Y
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Ligm.Dotc.V
+Encoding: 1114194 -1 142
+Width: 739
+Flags: W
+HStem: -264 65<435.085 491.772> -128 65<125 318.847> 42 52<416.418 467.539> 60 52<332.418 383.539 500.418 551.539> 107 52<258.418 309.539 574.418 625.539> 181 52<211.418 262.539 621.418 672.539> 265 52<193.418 244.539 639.418 690.539> 349 52<211.418 262.539 621.418 672.539> 423 52<258.418 309.539 574.418 625.539> 470 52<332.418 383.539 500.418 551.539> 488 52<416.418 467.539> 560 65<-10 60 125 155>
+VStem: 60 65<-63 560> 193 52<265.418 316.539> 211 52<181.418 232.539 349.418 400.539> 258 52<107.418 158.539 423.418 474.539> 332 52<60.4176 111.539 470.418 521.539> 416 52<42.4176 93.5391 488.418 539.539> 492 65<-198.932 -164.73> 500 52<60.4176 111.539 470.418 521.539> 574 52<107.418 158.539 423.418 474.539> 621 52<181.418 232.539 349.418 400.539> 639 52<265.418 316.539>
+AnchorPoint: "Virama" 631 -40 basechar 0
+AnchorPoint: "Matra 625" 442 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 0 9676 N 1 0 0 1 145 0 2
+Refer: 45 90411 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "Gukh LIGM-1" Shape.Dotc Gukh.Med.V
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.Y.Low
+Encoding: 1114195 -1 143
+Width: 145
+Flags: W
+HStem: -63 65<125 289.855> 560 65<-10 60 125 155>
+VStem: 60 65<2 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+530 -125 m 1
+ 381 -75 302 -63 60 -63 c 1
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 155 625 l 1
+ 155 560 l 1
+ 125 560 l 1
+ 125 2 l 1
+ 318 1 418 -18 551 -64 c 1
+ 530 -125 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.V.Low
+Encoding: 1114196 -1 144
+Width: 145
+Flags: W
+HStem: -194 65<435.085 491.772> -58 65<125 318.847> 560 65<-10 60 125 155>
+VStem: 60 65<7 560> 492 65<-128.932 -94.7297>
+AnchorPoint: "Virama" 631 -40 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+557 -119 m 0
+ 557 -162 516 -194 474 -194 c 0
+ 457 -194 439 -192 422 -187 c 1
+ 438 -124 l 1
+ 449 -127 460 -129 473 -129 c 0
+ 486 -129 492 -124 492 -114 c 0
+ 492 -104 483 -96 466 -93 c 0
+ 356 -70 231 -58 92 -58 c 2
+ 60 -58 l 1
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 155 625 l 1
+ 155 560 l 1
+ 125 560 l 1
+ 125 7 l 1
+ 255 6 373 -6 480 -29 c 0
+ 498 -33 557 -50 557 -119 c 0
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.H.Norm
+Encoding: 1114197 -1 145
+Width: 250
+Flags: W
+HStem: 11 50<68.7741 151.226> 161 50<68.8914 151.109> 285 50<68.7741 151.226> 435 50<68.8914 151.109> 560 65<-10 260>
+VStem: 10 50<69.9346 151.821 343.935 425.821> 160 50<69.9346 151.821 343.935 425.821>
+AnchorPoint: "Dot below" -300 0 basechar 0
+AnchorPoint: "Virama" -230 0 basechar 0
+AnchorPoint: "Matra 625" -300 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 46 90412 N 1 0 0 1 0 0 2
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.H.Wider
+Encoding: 1114198 -1 146
+Width: 250
+Flags: W
+HStem: 11 50<68.7741 151.226> 161 50<68.8914 151.109> 285 50<68.7741 151.226> 435 50<68.8914 151.109> 560 65<-10 260>
+VStem: 10 50<69.9346 151.821 343.935 425.821> 160 50<69.9346 151.821 343.935 425.821>
+AnchorPoint: "Dot below" -400 0 basechar 0
+AnchorPoint: "Virama" -320 0 basechar 0
+AnchorPoint: "Matra 625" -400 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 46 90412 N 1 0 0 1 0 0 2
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.H.Aspir
+Encoding: 1114199 -1 147
+Width: 250
+Flags: W
+HStem: 11 50<68.7741 151.226> 161 50<68.8914 151.109> 285 50<68.7741 151.226> 435 50<68.8914 151.109> 560 65<-10 260>
+VStem: 10 50<69.9346 151.821 343.935 425.821> 160 50<69.9346 151.821 343.935 425.821>
+AnchorPoint: "Dot below" -490 0 basechar 0
+AnchorPoint: "Virama" -410 0 basechar 0
+AnchorPoint: "Matra 625" -490 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 46 90412 N 1 0 0 1 0 0 2
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.H.InvT
+Encoding: 1114200 -1 148
+Width: 250
+Flags: W
+HStem: 11 50<68.7741 151.226> 161 50<68.8914 151.109> 285 50<68.7741 151.226> 435 50<68.8914 151.109> 560 65<-10 260>
+VStem: 10 50<69.9346 151.821 343.935 425.821> 160 50<69.9346 151.821 343.935 425.821>
+AnchorPoint: "Matra 625" -334 625 basechar 0
+AnchorPoint: "Dot below" -334 0 basechar 0
+AnchorPoint: "Virama" -183 27 basechar 0
+LayerCount: 2
+Fore
+Refer: 46 90412 N 1 0 0 1 0 0 2
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.H.b
+Encoding: 1114201 -1 149
+Width: 250
+Flags: W
+HStem: 11 50<68.7741 151.226> 161 50<68.8914 151.109> 285 50<68.7741 151.226> 435 50<68.8914 151.109> 560 65<-10 260>
+VStem: 10 50<69.9346 151.821 343.935 425.821> 160 50<69.9346 151.821 343.935 425.821>
+AnchorPoint: "Dot below" -275 0 basechar 0
+AnchorPoint: "Virama" -193 10 basechar 0
+AnchorPoint: "Matra 625" -275 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 46 90412 N 1 0 0 1 0 0 2
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Virama.DoubleMed
+Encoding: 1114202 -1 150
+Width: 0
+Flags: W
+HStem: -261 169
+VStem: -306 201
+AnchorPoint: "Virama" -408 -27 mark 0
+LayerCount: 2
+Fore
+Refer: 49 90415 N 1 0 0 1 0 0 2
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.Y.Slant
+Encoding: 1114203 -1 151
+Width: 145
+Flags: W
+HStem: 560 65<-10 60 125 155>
+VStem: 60 65<142.803 560>
+AnchorPoint: "Virama" 631 -40 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 560 m 1
+ 125 149 l 1
+ 276 105 367 61 560 -73 c 1
+ 523 -126 l 1
+ 335 5 254 45 84 93 c 2
+ 60 100 l 1
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 155 625 l 1
+ 155 560 l 1
+ 125 560 l 1
+EndSplineSet
+Colour: ffe600
+EndChar
+
+StartChar: Gukh.Med.V.Slant
+Encoding: 1114204 -1 152
+Width: 145
+Flags: W
+HStem: -204 64<435.621 491.517> 560 65<-10 60 125 155>
+VStem: 60 65<140.524 560> 492 67<-139.993 -98.4673>
+AnchorPoint: "Virama" 631 -40 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+559 -122 m 4
+ 559 -127 558 -204 468 -204 c 4
+ 453 -204 438 -202 422 -197 c 5
+ 439 -134 l 5
+ 452 -137 463 -139 471 -140 c 4
+ 485 -140 492 -134 492 -122 c 4
+ 492 -115 482 -105 462 -92 c 4
+ 289 18 192 59 82 94 c 6
+ 60 101 l 5
+ 60 560 l 1
+ -10 560 l 1
+ -10 625 l 1
+ 155 625 l 1
+ 155 560 l 1
+ 125 560 l 1
+ 125 148 l 5
+ 240 109 349 56 452 -9 c 4
+ 528 -58 558 -77 559 -122 c 4
+EndSplineSet
+Colour: ffe600
+EndChar
+EndChars
+EndSplineFont

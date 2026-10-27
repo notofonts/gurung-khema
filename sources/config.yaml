@@ -1,4 +1,8 @@
 googleFonts: true
 sources:
-- NotoSansTest.glyphs
-familyName: Noto Sans Test
+- NotoSansGurungKhema.glyphs
+familyName: Noto Sans Gurung Khema
+recipeProvider: noto
+includeSubsets:
+- from: Noto Sans
+  name: GF_Latin_Core
